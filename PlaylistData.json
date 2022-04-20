@@ -1,0 +1,4859 @@
+{
+  "collaborative" : false,
+  "description" : "slowed, reverbed, chopped and screwed",
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX0h2LvJ7ZJ15"
+  },
+  "followers" : {
+    "href" : null,
+    "total" : 190532
+  },
+  "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX0h2LvJ7ZJ15",
+  "id" : "37i9dQZF1DX0h2LvJ7ZJ15",
+  "images" : [ {
+    "height" : null,
+    "url" : "https://i.scdn.co/image/ab67706f0000000342d5a37e7feebd0d74ae749c",
+    "width" : null
+  } ],
+  "name" : "slowed + reverbed",
+  "owner" : {
+    "display_name" : "Spotify",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/spotify"
+    },
+    "href" : "https://api.spotify.com/v1/users/spotify",
+    "id" : "spotify",
+    "type" : "user",
+    "uri" : "spotify:user:spotify"
+  },
+  "primary_color" : "#ffffff",
+  "public" : false,
+  "snapshot_id" : "MTY1MDQ5ODEzMCwwMDAwMDAwMDQ0MjExNTkxZDNhZDEzMzBjNTE1ZDg5MGNmZmNkYTkz",
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX0h2LvJ7ZJ15/tracks?offset=0&limit=100&market=ES",
+    "items" : [ {
+      "added_at" : "2022-03-23T20:14:04Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+            },
+            "href" : "https://api.spotify.com/v1/artists/4yvcSjfu4PC0CYQyLy4wSq",
+            "id" : "4yvcSjfu4PC0CYQyLy4wSq",
+            "name" : "Glass Animals",
+            "type" : "artist",
+            "uri" : "spotify:artist:4yvcSjfu4PC0CYQyLy4wSq"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/4SRt3uGUROnTFCw41dzHIh"
+          },
+          "href" : "https://api.spotify.com/v1/albums/4SRt3uGUROnTFCw41dzHIh",
+          "id" : "4SRt3uGUROnTFCw41dzHIh",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273ca715be1bb97fc0129955123",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02ca715be1bb97fc0129955123",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851ca715be1bb97fc0129955123",
+            "width" : 64
+          } ],
+          "name" : "Heat Waves (Expansion Pack)",
+          "release_date" : "2021-03-21",
+          "release_date_precision" : "day",
+          "total_tracks" : 9,
+          "type" : "album",
+          "uri" : "spotify:album:4SRt3uGUROnTFCw41dzHIh"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4yvcSjfu4PC0CYQyLy4wSq",
+          "id" : "4yvcSjfu4PC0CYQyLy4wSq",
+          "name" : "Glass Animals",
+          "type" : "artist",
+          "uri" : "spotify:artist:4yvcSjfu4PC0CYQyLy4wSq"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 262248,
+        "episode" : false,
+        "explicit" : false,
+        "external_ids" : {
+          "isrc" : "GBUM72200418"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/1K2RnVhm3eauKnA8PAcPu1"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/1K2RnVhm3eauKnA8PAcPu1",
+        "id" : "1K2RnVhm3eauKnA8PAcPu1",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "Heat Waves - Slowed",
+        "popularity" : 75,
+        "preview_url" : null,
+        "track" : true,
+        "track_number" : 2,
+        "type" : "track",
+        "uri" : "spotify:track:1K2RnVhm3eauKnA8PAcPu1"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2021-10-01T10:11:00Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+            },
+            "href" : "https://api.spotify.com/v1/artists/2WzaAvm2bBCf4pEhyuDgCY",
+            "id" : "2WzaAvm2bBCf4pEhyuDgCY",
+            "name" : "Ruth B.",
+            "type" : "artist",
+            "uri" : "spotify:artist:2WzaAvm2bBCf4pEhyuDgCY"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/0W26SC6AcPdqk1Hz5hfWnj"
+          },
+          "href" : "https://api.spotify.com/v1/albums/0W26SC6AcPdqk1Hz5hfWnj",
+          "id" : "0W26SC6AcPdqk1Hz5hfWnj",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b27396c2ed12fcaadba5e1eac696",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e0296c2ed12fcaadba5e1eac696",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d0000485196c2ed12fcaadba5e1eac696",
+            "width" : 64
+          } ],
+          "name" : "Dandelions (slowed + reverb)",
+          "release_date" : "2021-08-27",
+          "release_date_precision" : "day",
+          "total_tracks" : 2,
+          "type" : "album",
+          "uri" : "spotify:album:0W26SC6AcPdqk1Hz5hfWnj"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2WzaAvm2bBCf4pEhyuDgCY",
+          "id" : "2WzaAvm2bBCf4pEhyuDgCY",
+          "name" : "Ruth B.",
+          "type" : "artist",
+          "uri" : "spotify:artist:2WzaAvm2bBCf4pEhyuDgCY"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0JSCWkJNFGt7o4YbYcplQ7",
+          "id" : "0JSCWkJNFGt7o4YbYcplQ7",
+          "name" : "slater",
+          "type" : "artist",
+          "uri" : "spotify:artist:0JSCWkJNFGt7o4YbYcplQ7"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 268717,
+        "episode" : false,
+        "explicit" : false,
+        "external_ids" : {
+          "isrc" : "USSM12106073"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/6fhG2KJgwO7CrNflRaRmvp"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/6fhG2KJgwO7CrNflRaRmvp",
+        "id" : "6fhG2KJgwO7CrNflRaRmvp",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "Dandelions - slowed + reverb",
+        "popularity" : 81,
+        "preview_url" : "https://p.scdn.co/mp3-preview/18767e1f242315a72ef435305c3fa510bd8aa8f1?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:6fhG2KJgwO7CrNflRaRmvp"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2022-04-15T18:09:27Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F"
+            },
+            "href" : "https://api.spotify.com/v1/artists/56g4P11Gxl7nROZBbm8X3F",
+            "id" : "56g4P11Gxl7nROZBbm8X3F",
+            "name" : "prodby668",
+            "type" : "artist",
+            "uri" : "spotify:artist:56g4P11Gxl7nROZBbm8X3F"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/5qB7QM6PhhJMZcg0zSRei1"
+          },
+          "href" : "https://api.spotify.com/v1/albums/5qB7QM6PhhJMZcg0zSRei1",
+          "id" : "5qB7QM6PhhJMZcg0zSRei1",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273377109daa4674a52c2b0394a",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02377109daa4674a52c2b0394a",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851377109daa4674a52c2b0394a",
+            "width" : 64
+          } ],
+          "name" : "prolly my spookiest beat (slowed + reverb)",
+          "release_date" : "2022-03-18",
+          "release_date_precision" : "day",
+          "total_tracks" : 1,
+          "type" : "album",
+          "uri" : "spotify:album:5qB7QM6PhhJMZcg0zSRei1"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F"
+          },
+          "href" : "https://api.spotify.com/v1/artists/56g4P11Gxl7nROZBbm8X3F",
+          "id" : "56g4P11Gxl7nROZBbm8X3F",
+          "name" : "prodby668",
+          "type" : "artist",
+          "uri" : "spotify:artist:56g4P11Gxl7nROZBbm8X3F"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 141509,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "US3DF2230682"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/0UYUdfqkHplLojTuEKMqtC"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/0UYUdfqkHplLojTuEKMqtC",
+        "id" : "0UYUdfqkHplLojTuEKMqtC",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "prolly my spookiest beat (slowed + reverb)",
+        "popularity" : 62,
+        "preview_url" : "https://p.scdn.co/mp3-preview/797e127357b585fea043be4b864eabe2ac86dfce?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:0UYUdfqkHplLojTuEKMqtC"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2021-10-01T10:11:00Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
+            },
+            "href" : "https://api.spotify.com/v1/artists/0XFgyr4jwM0MGeZZW0VzA5",
+            "id" : "0XFgyr4jwM0MGeZZW0VzA5",
+            "name" : "DVRST",
+            "type" : "artist",
+            "uri" : "spotify:artist:0XFgyr4jwM0MGeZZW0VzA5"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/12zL1YZJeADPb6hPdD9Mqm"
+          },
+          "href" : "https://api.spotify.com/v1/albums/12zL1YZJeADPb6hPdD9Mqm",
+          "id" : "12zL1YZJeADPb6hPdD9Mqm",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b2736944420b7a2a0e966ccad292",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e026944420b7a2a0e966ccad292",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d000048516944420b7a2a0e966ccad292",
+            "width" : 64
+          } ],
+          "name" : "Close Eyes (Slowed + Reverb)",
+          "release_date" : "2021-07-16",
+          "release_date_precision" : "day",
+          "total_tracks" : 1,
+          "type" : "album",
+          "uri" : "spotify:album:12zL1YZJeADPb6hPdD9Mqm"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0XFgyr4jwM0MGeZZW0VzA5",
+          "id" : "0XFgyr4jwM0MGeZZW0VzA5",
+          "name" : "DVRST",
+          "type" : "artist",
+          "uri" : "spotify:artist:0XFgyr4jwM0MGeZZW0VzA5"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 143769,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "QMFME2128103"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/5RE3w3M9g5vsotdIVtLONq"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/5RE3w3M9g5vsotdIVtLONq",
+        "id" : "5RE3w3M9g5vsotdIVtLONq",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "Close Eyes - Slowed + Reverb",
+        "popularity" : 74,
+        "preview_url" : "https://p.scdn.co/mp3-preview/c7501bca6e68d103df148ac8cfde76baaa6466be?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:5RE3w3M9g5vsotdIVtLONq"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2021-10-01T10:11:00Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+            },
+            "href" : "https://api.spotify.com/v1/artists/6oBm8HB0yfrIc9IHbxs6in",
+            "id" : "6oBm8HB0yfrIc9IHbxs6in",
+            "name" : "Lykke Li",
+            "type" : "artist",
+            "uri" : "spotify:artist:6oBm8HB0yfrIc9IHbxs6in"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1"
+          },
+          "href" : "https://api.spotify.com/v1/albums/7bL1fTsGeOyxv29BNVtMb1",
+          "id" : "7bL1fTsGeOyxv29BNVtMb1",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b2734e520169fed8748fcb8317ad",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e024e520169fed8748fcb8317ad",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d000048514e520169fed8748fcb8317ad",
+            "width" : 64
+          } ],
+          "name" : "sex money feelings die (slowed version)",
+          "release_date" : "2019-10-18",
+          "release_date_precision" : "day",
+          "total_tracks" : 1,
+          "type" : "album",
+          "uri" : "spotify:album:7bL1fTsGeOyxv29BNVtMb1"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6oBm8HB0yfrIc9IHbxs6in",
+          "id" : "6oBm8HB0yfrIc9IHbxs6in",
+          "name" : "Lykke Li",
+          "type" : "artist",
+          "uri" : "spotify:artist:6oBm8HB0yfrIc9IHbxs6in"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 168810,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "USRC11902770"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/0dkvbYmXYEPK7gGMdytmfI",
+        "id" : "0dkvbYmXYEPK7gGMdytmfI",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "sex money feelings die - slowed version",
+        "popularity" : 76,
+        "preview_url" : "https://p.scdn.co/mp3-preview/03955da6f6ea554015f081dc04577925fb1bc588?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:0dkvbYmXYEPK7gGMdytmfI"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2022-04-01T04:39:00Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+            },
+            "href" : "https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW",
+            "id" : "6tbjWDEIzxoDsBA1FuhfPW",
+            "name" : "Madonna",
+            "type" : "artist",
+            "uri" : "spotify:artist:6tbjWDEIzxoDsBA1FuhfPW"
+          }, {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS"
+            },
+            "href" : "https://api.spotify.com/v1/artists/3NR7hAacOhmcztWvD7vJfS",
+            "id" : "3NR7hAacOhmcztWvD7vJfS",
+            "name" : "Sickick",
+            "type" : "artist",
+            "uri" : "spotify:artist:3NR7hAacOhmcztWvD7vJfS"
+          }, {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+            },
+            "href" : "https://api.spotify.com/v1/artists/12Zk1DFhCbHY6v3xep2ZjI",
+            "id" : "12Zk1DFhCbHY6v3xep2ZjI",
+            "name" : "070 Shake",
+            "type" : "artist",
+            "uri" : "spotify:artist:12Zk1DFhCbHY6v3xep2ZjI"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/78zdwUAgBJyjPjwYAMSUDD"
+          },
+          "href" : "https://api.spotify.com/v1/albums/78zdwUAgBJyjPjwYAMSUDD",
+          "id" : "78zdwUAgBJyjPjwYAMSUDD",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b27329df4cca40ab43dd830cf555",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e0229df4cca40ab43dd830cf555",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d0000485129df4cca40ab43dd830cf555",
+            "width" : 64
+          } ],
+          "name" : "Frozen (feat. 070 Shake)",
+          "release_date" : "2022-03-31",
+          "release_date_precision" : "day",
+          "total_tracks" : 2,
+          "type" : "album",
+          "uri" : "spotify:album:78zdwUAgBJyjPjwYAMSUDD"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW",
+          "id" : "6tbjWDEIzxoDsBA1FuhfPW",
+          "name" : "Madonna",
+          "type" : "artist",
+          "uri" : "spotify:artist:6tbjWDEIzxoDsBA1FuhfPW"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3NR7hAacOhmcztWvD7vJfS",
+          "id" : "3NR7hAacOhmcztWvD7vJfS",
+          "name" : "Sickick",
+          "type" : "artist",
+          "uri" : "spotify:artist:3NR7hAacOhmcztWvD7vJfS"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/12Zk1DFhCbHY6v3xep2ZjI",
+          "id" : "12Zk1DFhCbHY6v3xep2ZjI",
+          "name" : "070 Shake",
+          "type" : "artist",
+          "uri" : "spotify:artist:12Zk1DFhCbHY6v3xep2ZjI"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 139636,
+        "episode" : false,
+        "explicit" : false,
+        "external_ids" : {
+          "isrc" : "USWB12200372"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/34itnB3u4NTwj9ctVfiPmC"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/34itnB3u4NTwj9ctVfiPmC",
+        "id" : "34itnB3u4NTwj9ctVfiPmC",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "Frozen (feat. 070 Shake)",
+        "popularity" : 66,
+        "preview_url" : "https://p.scdn.co/mp3-preview/b9e7db9b4f2b935252595683c595fe2dde55ed80?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:34itnB3u4NTwj9ctVfiPmC"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2022-03-11T15:29:25Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "album",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1"
+            },
+            "href" : "https://api.spotify.com/v1/artists/6LlLRudDi60Uy4jcmOSEs1",
+            "id" : "6LlLRudDi60Uy4jcmOSEs1",
+            "name" : "omgkirby",
+            "type" : "artist",
+            "uri" : "spotify:artist:6LlLRudDi60Uy4jcmOSEs1"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/6h88BKIEZtuF96sr5VRE5e"
+          },
+          "href" : "https://api.spotify.com/v1/albums/6h88BKIEZtuF96sr5VRE5e",
+          "id" : "6h88BKIEZtuF96sr5VRE5e",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273b01dde0b2e3c3702570d548f",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02b01dde0b2e3c3702570d548f",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851b01dde0b2e3c3702570d548f",
+            "width" : 64
+          } ],
+          "name" : "slowmgkirby 3 (slowed + reverb)",
+          "release_date" : "2022-03-11",
+          "release_date_precision" : "day",
+          "total_tracks" : 11,
+          "type" : "album",
+          "uri" : "spotify:album:6h88BKIEZtuF96sr5VRE5e"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6LlLRudDi60Uy4jcmOSEs1",
+          "id" : "6LlLRudDi60Uy4jcmOSEs1",
+          "name" : "omgkirby",
+          "type" : "artist",
+          "uri" : "spotify:artist:6LlLRudDi60Uy4jcmOSEs1"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 107913,
+        "episode" : false,
+        "explicit" : false,
+        "external_ids" : {
+          "isrc" : "QM24S2200847"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/7ljWud1QU4GInOemFkPlzh"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/7ljWud1QU4GInOemFkPlzh",
+        "id" : "7ljWud1QU4GInOemFkPlzh",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "somebody that i used to know - slowed + reverb",
+        "popularity" : 52,
+        "preview_url" : "https://p.scdn.co/mp3-preview/7813108f1fec0288edc679d277d456f1757050b3?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:7ljWud1QU4GInOemFkPlzh"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2021-10-01T10:11:00Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+            },
+            "href" : "https://api.spotify.com/v1/artists/1l9d7B8W0IHy3LqWsxP2SH",
+            "id" : "1l9d7B8W0IHy3LqWsxP2SH",
+            "name" : "Phantogram",
+            "type" : "artist",
+            "uri" : "spotify:artist:1l9d7B8W0IHy3LqWsxP2SH"
+          }, {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr"
+            },
+            "href" : "https://api.spotify.com/v1/artists/4kBCXTJBl1aY9pDHONsjfr",
+            "id" : "4kBCXTJBl1aY9pDHONsjfr",
+            "name" : "xxtristanxo",
+            "type" : "artist",
+            "uri" : "spotify:artist:4kBCXTJBl1aY9pDHONsjfr"
+          }, {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/7zmcKgBZSbMxqzqFe6Ac5k"
+            },
+            "href" : "https://api.spotify.com/v1/artists/7zmcKgBZSbMxqzqFe6Ac5k",
+            "id" : "7zmcKgBZSbMxqzqFe6Ac5k",
+            "name" : "Slowed Radio",
+            "type" : "artist",
+            "uri" : "spotify:artist:7zmcKgBZSbMxqzqFe6Ac5k"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/51DQUyUCSwUuIErPPGUcFj"
+          },
+          "href" : "https://api.spotify.com/v1/albums/51DQUyUCSwUuIErPPGUcFj",
+          "id" : "51DQUyUCSwUuIErPPGUcFj",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b27398107e92c95d80cbfe0ae2f3",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e0298107e92c95d80cbfe0ae2f3",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d0000485198107e92c95d80cbfe0ae2f3",
+            "width" : 64
+          } ],
+          "name" : "Black Out Days [Future Islands Remix (Slowed)]",
+          "release_date" : "2021-09-10",
+          "release_date_precision" : "day",
+          "total_tracks" : 1,
+          "type" : "album",
+          "uri" : "spotify:album:51DQUyUCSwUuIErPPGUcFj"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1l9d7B8W0IHy3LqWsxP2SH",
+          "id" : "1l9d7B8W0IHy3LqWsxP2SH",
+          "name" : "Phantogram",
+          "type" : "artist",
+          "uri" : "spotify:artist:1l9d7B8W0IHy3LqWsxP2SH"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4kBCXTJBl1aY9pDHONsjfr",
+          "id" : "4kBCXTJBl1aY9pDHONsjfr",
+          "name" : "xxtristanxo",
+          "type" : "artist",
+          "uri" : "spotify:artist:4kBCXTJBl1aY9pDHONsjfr"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7zmcKgBZSbMxqzqFe6Ac5k"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7zmcKgBZSbMxqzqFe6Ac5k",
+          "id" : "7zmcKgBZSbMxqzqFe6Ac5k",
+          "name" : "Slowed Radio",
+          "type" : "artist",
+          "uri" : "spotify:artist:7zmcKgBZSbMxqzqFe6Ac5k"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1WvvwcQx0tj6NdDhZZ2zZz",
+          "id" : "1WvvwcQx0tj6NdDhZZ2zZz",
+          "name" : "Future Islands",
+          "type" : "artist",
+          "uri" : "spotify:artist:1WvvwcQx0tj6NdDhZZ2zZz"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 214394,
+        "episode" : false,
+        "explicit" : false,
+        "external_ids" : {
+          "isrc" : "USUM72115749"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/5tRnzF4v2KL72QQdCjopyt"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/5tRnzF4v2KL72QQdCjopyt",
+        "id" : "5tRnzF4v2KL72QQdCjopyt",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "Black Out Days - Future Islands Remix (Slowed)",
+        "popularity" : 65,
+        "preview_url" : null,
+        "track" : true,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:5tRnzF4v2KL72QQdCjopyt"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2021-10-01T10:11:00Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz"
+            },
+            "href" : "https://api.spotify.com/v1/artists/6vCIRD06VaQwwaZS0TqiCz",
+            "id" : "6vCIRD06VaQwwaZS0TqiCz",
+            "name" : "Foster",
+            "type" : "artist",
+            "uri" : "spotify:artist:6vCIRD06VaQwwaZS0TqiCz"
+          }, {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt"
+            },
+            "href" : "https://api.spotify.com/v1/artists/01y8iBZYk8aeNfPsuTVrAt",
+            "id" : "01y8iBZYk8aeNfPsuTVrAt",
+            "name" : "Sody",
+            "type" : "artist",
+            "uri" : "spotify:artist:01y8iBZYk8aeNfPsuTVrAt"
+          }, {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
+            },
+            "href" : "https://api.spotify.com/v1/artists/1bq8rqNnfrojn0OSAfeNXJ",
+            "id" : "1bq8rqNnfrojn0OSAfeNXJ",
+            "name" : "Sarcastic Sounds",
+            "type" : "artist",
+            "uri" : "spotify:artist:1bq8rqNnfrojn0OSAfeNXJ"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/4cqURqEKhKGJNtuO2N3rqn"
+          },
+          "href" : "https://api.spotify.com/v1/albums/4cqURqEKhKGJNtuO2N3rqn",
+          "id" : "4cqURqEKhKGJNtuO2N3rqn",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273c486e9b73840c650d9027960",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02c486e9b73840c650d9027960",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851c486e9b73840c650d9027960",
+            "width" : 64
+          } ],
+          "name" : "fools (can't help falling in love) (slowed down & reverb)",
+          "release_date" : "2021-03-24",
+          "release_date_precision" : "day",
+          "total_tracks" : 2,
+          "type" : "album",
+          "uri" : "spotify:album:4cqURqEKhKGJNtuO2N3rqn"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6vCIRD06VaQwwaZS0TqiCz",
+          "id" : "6vCIRD06VaQwwaZS0TqiCz",
+          "name" : "Foster",
+          "type" : "artist",
+          "uri" : "spotify:artist:6vCIRD06VaQwwaZS0TqiCz"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt"
+          },
+          "href" : "https://api.spotify.com/v1/artists/01y8iBZYk8aeNfPsuTVrAt",
+          "id" : "01y8iBZYk8aeNfPsuTVrAt",
+          "name" : "Sody",
+          "type" : "artist",
+          "uri" : "spotify:artist:01y8iBZYk8aeNfPsuTVrAt"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1bq8rqNnfrojn0OSAfeNXJ",
+          "id" : "1bq8rqNnfrojn0OSAfeNXJ",
+          "name" : "Sarcastic Sounds",
+          "type" : "artist",
+          "uri" : "spotify:artist:1bq8rqNnfrojn0OSAfeNXJ"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 197857,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "GBARL2100299"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/6IEYxC5J51Igo0XUTx16mA"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/6IEYxC5J51Igo0XUTx16mA",
+        "id" : "6IEYxC5J51Igo0XUTx16mA",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "fools (can't help falling in love) (slowed down & reverb)",
+        "popularity" : 56,
+        "preview_url" : "https://p.scdn.co/mp3-preview/57bf9a85ebddb0ec7301e0c580dcd553acdcdbd6?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:6IEYxC5J51Igo0XUTx16mA"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2022-02-25T20:49:56Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/2FHefNucZqH8nNdKcJX7tM"
+            },
+            "href" : "https://api.spotify.com/v1/artists/2FHefNucZqH8nNdKcJX7tM",
+            "id" : "2FHefNucZqH8nNdKcJX7tM",
+            "name" : "Coldare",
+            "type" : "artist",
+            "uri" : "spotify:artist:2FHefNucZqH8nNdKcJX7tM"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/0N7iF1ovuuKhVvNLorIt4N"
+          },
+          "href" : "https://api.spotify.com/v1/albums/0N7iF1ovuuKhVvNLorIt4N",
+          "id" : "0N7iF1ovuuKhVvNLorIt4N",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273d2cb27fb4f3804432bfe6045",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02d2cb27fb4f3804432bfe6045",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851d2cb27fb4f3804432bfe6045",
+            "width" : 64
+          } ],
+          "name" : "Revenge",
+          "release_date" : "2002",
+          "release_date_precision" : "year",
+          "total_tracks" : 1,
+          "type" : "album",
+          "uri" : "spotify:album:0N7iF1ovuuKhVvNLorIt4N"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2FHefNucZqH8nNdKcJX7tM"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2FHefNucZqH8nNdKcJX7tM",
+          "id" : "2FHefNucZqH8nNdKcJX7tM",
+          "name" : "Coldare",
+          "type" : "artist",
+          "uri" : "spotify:artist:2FHefNucZqH8nNdKcJX7tM"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 131854,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "QZHN92113447"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/1fLHQ3KQtCQV5Ig0X3HVv2"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/1fLHQ3KQtCQV5Ig0X3HVv2",
+        "id" : "1fLHQ3KQtCQV5Ig0X3HVv2",
+        "is_local" : false,
+        "is_playable" : false,
+        "name" : "Revenge",
+        "popularity" : 46,
+        "preview_url" : null,
+        "restrictions" : {
+          "reason" : "market"
+        },
+        "track" : true,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:1fLHQ3KQtCQV5Ig0X3HVv2"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2021-10-01T10:11:00Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+            },
+            "href" : "https://api.spotify.com/v1/artists/7gAppWoH7pcYmphCVTXkzs",
+            "id" : "7gAppWoH7pcYmphCVTXkzs",
+            "name" : "The Vamps",
+            "type" : "artist",
+            "uri" : "spotify:artist:7gAppWoH7pcYmphCVTXkzs"
+          }, {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
+            },
+            "href" : "https://api.spotify.com/v1/artists/4YXycRbyyAE0wozTk7QMEq",
+            "id" : "4YXycRbyyAE0wozTk7QMEq",
+            "name" : "Matoma",
+            "type" : "artist",
+            "uri" : "spotify:artist:4YXycRbyyAE0wozTk7QMEq"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/4YqfRZEKP1rDqKK1LNBjbU"
+          },
+          "href" : "https://api.spotify.com/v1/albums/4YqfRZEKP1rDqKK1LNBjbU",
+          "id" : "4YqfRZEKP1rDqKK1LNBjbU",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273cb6bdc1e99832e1fe85a9930",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02cb6bdc1e99832e1fe85a9930",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851cb6bdc1e99832e1fe85a9930",
+            "width" : 64
+          } ],
+          "name" : "Married In Vegas (Matoma Remix)",
+          "release_date" : "2020-08-21",
+          "release_date_precision" : "day",
+          "total_tracks" : 3,
+          "type" : "album",
+          "uri" : "spotify:album:4YqfRZEKP1rDqKK1LNBjbU"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7gAppWoH7pcYmphCVTXkzs",
+          "id" : "7gAppWoH7pcYmphCVTXkzs",
+          "name" : "The Vamps",
+          "type" : "artist",
+          "uri" : "spotify:artist:7gAppWoH7pcYmphCVTXkzs"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4YXycRbyyAE0wozTk7QMEq",
+          "id" : "4YXycRbyyAE0wozTk7QMEq",
+          "name" : "Matoma",
+          "type" : "artist",
+          "uri" : "spotify:artist:4YXycRbyyAE0wozTk7QMEq"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 244797,
+        "episode" : false,
+        "explicit" : false,
+        "external_ids" : {
+          "isrc" : "GBUM72004348"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/1gk5o5yEXAsHeXMJoavmh3"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/1gk5o5yEXAsHeXMJoavmh3",
+        "id" : "1gk5o5yEXAsHeXMJoavmh3",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "All Night - Slowed N Reverb",
+        "popularity" : 66,
+        "preview_url" : null,
+        "track" : true,
+        "track_number" : 3,
+        "type" : "track",
+        "uri" : "spotify:track:1gk5o5yEXAsHeXMJoavmh3"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2022-01-31T21:54:27Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/2lMv8dtufbOPrrf5CPS7tS"
+            },
+            "href" : "https://api.spotify.com/v1/artists/2lMv8dtufbOPrrf5CPS7tS",
+            "id" : "2lMv8dtufbOPrrf5CPS7tS",
+            "name" : "Fraxo",
+            "type" : "artist",
+            "uri" : "spotify:artist:2lMv8dtufbOPrrf5CPS7tS"
+          }, {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+            },
+            "href" : "https://api.spotify.com/v1/artists/5zId1SmYy46E9v2KQsSTFR",
+            "id" : "5zId1SmYy46E9v2KQsSTFR",
+            "name" : "Whales",
+            "type" : "artist",
+            "uri" : "spotify:artist:5zId1SmYy46E9v2KQsSTFR"
+          }, {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/3SFVIUlipGj3RpWCKe9s73"
+            },
+            "href" : "https://api.spotify.com/v1/artists/3SFVIUlipGj3RpWCKe9s73",
+            "id" : "3SFVIUlipGj3RpWCKe9s73",
+            "name" : "Lox Chatterbox",
+            "type" : "artist",
+            "uri" : "spotify:artist:3SFVIUlipGj3RpWCKe9s73"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/13juqGwSBOnrdF9GjZO835"
+          },
+          "href" : "https://api.spotify.com/v1/albums/13juqGwSBOnrdF9GjZO835",
+          "id" : "13juqGwSBOnrdF9GjZO835",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273d3a5be459bdbca39f2376d98",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02d3a5be459bdbca39f2376d98",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851d3a5be459bdbca39f2376d98",
+            "width" : 64
+          } ],
+          "name" : "Dead To Me Slow + Reverb",
+          "release_date" : "2021-08-17",
+          "release_date_precision" : "day",
+          "total_tracks" : 2,
+          "type" : "album",
+          "uri" : "spotify:album:13juqGwSBOnrdF9GjZO835"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5zId1SmYy46E9v2KQsSTFR",
+          "id" : "5zId1SmYy46E9v2KQsSTFR",
+          "name" : "Whales",
+          "type" : "artist",
+          "uri" : "spotify:artist:5zId1SmYy46E9v2KQsSTFR"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2lMv8dtufbOPrrf5CPS7tS"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2lMv8dtufbOPrrf5CPS7tS",
+          "id" : "2lMv8dtufbOPrrf5CPS7tS",
+          "name" : "Fraxo",
+          "type" : "artist",
+          "uri" : "spotify:artist:2lMv8dtufbOPrrf5CPS7tS"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3SFVIUlipGj3RpWCKe9s73"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3SFVIUlipGj3RpWCKe9s73",
+          "id" : "3SFVIUlipGj3RpWCKe9s73",
+          "name" : "Lox Chatterbox",
+          "type" : "artist",
+          "uri" : "spotify:artist:3SFVIUlipGj3RpWCKe9s73"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 267227,
+        "episode" : false,
+        "explicit" : false,
+        "external_ids" : {
+          "isrc" : "CA5KR2196416"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/7xnElMPFCmSlMJ0AY2hnxc"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/7xnElMPFCmSlMJ0AY2hnxc",
+        "id" : "7xnElMPFCmSlMJ0AY2hnxc",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "Dead To Me - Slow + Reverb",
+        "popularity" : 75,
+        "preview_url" : "https://p.scdn.co/mp3-preview/efb10d3d3fd270c162d27716e1492a7be35d4b31?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:7xnElMPFCmSlMJ0AY2hnxc"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2022-02-22T16:50:31Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+            },
+            "href" : "https://api.spotify.com/v1/artists/6WFDpw4u23uSpon4BHvFRn",
+            "id" : "6WFDpw4u23uSpon4BHvFRn",
+            "name" : "Cat Burns",
+            "type" : "artist",
+            "uri" : "spotify:artist:6WFDpw4u23uSpon4BHvFRn"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/2pwYVy4ssFFHiRLxM0cOMM"
+          },
+          "href" : "https://api.spotify.com/v1/albums/2pwYVy4ssFFHiRLxM0cOMM",
+          "id" : "2pwYVy4ssFFHiRLxM0cOMM",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273d2c12c74817c705ff0307967",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02d2c12c74817c705ff0307967",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851d2c12c74817c705ff0307967",
+            "width" : 64
+          } ],
+          "name" : "Go (Lower & Slower)",
+          "release_date" : "2022-02-19",
+          "release_date_precision" : "day",
+          "total_tracks" : 1,
+          "type" : "album",
+          "uri" : "spotify:album:2pwYVy4ssFFHiRLxM0cOMM"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6WFDpw4u23uSpon4BHvFRn",
+          "id" : "6WFDpw4u23uSpon4BHvFRn",
+          "name" : "Cat Burns",
+          "type" : "artist",
+          "uri" : "spotify:artist:6WFDpw4u23uSpon4BHvFRn"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 224000,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "GBARL2200321"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/31wphZxsLDQSmqep0cG9c5"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/31wphZxsLDQSmqep0cG9c5",
+        "id" : "31wphZxsLDQSmqep0cG9c5",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "Go - Lower & Slower",
+        "popularity" : 70,
+        "preview_url" : "https://p.scdn.co/mp3-preview/745bd640bf50312bbd5b2ff1384acd628a54899c?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:31wphZxsLDQSmqep0cG9c5"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2021-10-01T10:11:00Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+            },
+            "href" : "https://api.spotify.com/v1/artists/4Gso3d4CscCijv0lmajZWs",
+            "id" : "4Gso3d4CscCijv0lmajZWs",
+            "name" : "Don Toliver",
+            "type" : "artist",
+            "uri" : "spotify:artist:4Gso3d4CscCijv0lmajZWs"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/2npABxi9tLhYZym5NtWubO"
+          },
+          "href" : "https://api.spotify.com/v1/albums/2npABxi9tLhYZym5NtWubO",
+          "id" : "2npABxi9tLhYZym5NtWubO",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273ef4c92cb237dfe38bc007d89",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02ef4c92cb237dfe38bc007d89",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851ef4c92cb237dfe38bc007d89",
+            "width" : 64
+          } ],
+          "name" : "No Idea (DJ Purpberry Chopped and Screwed)",
+          "release_date" : "2019-05-28",
+          "release_date_precision" : "day",
+          "total_tracks" : 1,
+          "type" : "album",
+          "uri" : "spotify:album:2npABxi9tLhYZym5NtWubO"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4Gso3d4CscCijv0lmajZWs",
+          "id" : "4Gso3d4CscCijv0lmajZWs",
+          "name" : "Don Toliver",
+          "type" : "artist",
+          "uri" : "spotify:artist:4Gso3d4CscCijv0lmajZWs"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 195573,
+        "episode" : false,
+        "explicit" : false,
+        "external_ids" : {
+          "isrc" : "USAT21907162"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/3PEwQ1uaMwg0ehoTeVm7Yq"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/3PEwQ1uaMwg0ehoTeVm7Yq",
+        "id" : "3PEwQ1uaMwg0ehoTeVm7Yq",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "No Idea - Dj Purpberry Chopped and Screwed",
+        "popularity" : 66,
+        "preview_url" : "https://p.scdn.co/mp3-preview/f3040cff001b70da6a6ba4acb16b4202aefb1e68?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:3PEwQ1uaMwg0ehoTeVm7Yq"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2022-01-21T05:45:00Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+            },
+            "href" : "https://api.spotify.com/v1/artists/21UPYSRWFKwtqvSAnFnSvS",
+            "id" : "21UPYSRWFKwtqvSAnFnSvS",
+            "name" : "Amaarae",
+            "type" : "artist",
+            "uri" : "spotify:artist:21UPYSRWFKwtqvSAnFnSvS"
+          }, {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr"
+            },
+            "href" : "https://api.spotify.com/v1/artists/4kBCXTJBl1aY9pDHONsjfr",
+            "id" : "4kBCXTJBl1aY9pDHONsjfr",
+            "name" : "xxtristanxo",
+            "type" : "artist",
+            "uri" : "spotify:artist:4kBCXTJBl1aY9pDHONsjfr"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/5aoxJ8A4pmkNBFr3tBDoiC"
+          },
+          "href" : "https://api.spotify.com/v1/albums/5aoxJ8A4pmkNBFr3tBDoiC",
+          "id" : "5aoxJ8A4pmkNBFr3tBDoiC",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b27368c63f8535394dba0be4a3d9",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e0268c63f8535394dba0be4a3d9",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d0000485168c63f8535394dba0be4a3d9",
+            "width" : 64
+          } ],
+          "name" : "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy) [Slowed + Reverb]",
+          "release_date" : "2021-09-16",
+          "release_date_precision" : "day",
+          "total_tracks" : 2,
+          "type" : "album",
+          "uri" : "spotify:album:5aoxJ8A4pmkNBFr3tBDoiC"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+          },
+          "href" : "https://api.spotify.com/v1/artists/21UPYSRWFKwtqvSAnFnSvS",
+          "id" : "21UPYSRWFKwtqvSAnFnSvS",
+          "name" : "Amaarae",
+          "type" : "artist",
+          "uri" : "spotify:artist:21UPYSRWFKwtqvSAnFnSvS"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1U1el3k54VvEUzo3ybLPlM",
+          "id" : "1U1el3k54VvEUzo3ybLPlM",
+          "name" : "Kali Uchis",
+          "type" : "artist",
+          "uri" : "spotify:artist:1U1el3k54VvEUzo3ybLPlM"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2hVWBpjLW4Q7fboYz2pVYK",
+          "id" : "2hVWBpjLW4Q7fboYz2pVYK",
+          "name" : "Moliy",
+          "type" : "artist",
+          "uri" : "spotify:artist:2hVWBpjLW4Q7fboYz2pVYK"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4kBCXTJBl1aY9pDHONsjfr",
+          "id" : "4kBCXTJBl1aY9pDHONsjfr",
+          "name" : "xxtristanxo",
+          "type" : "artist",
+          "uri" : "spotify:artist:4kBCXTJBl1aY9pDHONsjfr"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 138646,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "GBUM72200356"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/5lYLBAH2uSvERWy8GAcBJz"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/5lYLBAH2uSvERWy8GAcBJz",
+        "id" : "5lYLBAH2uSvERWy8GAcBJz",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy) - Slowed + Reverb",
+        "popularity" : 56,
+        "preview_url" : null,
+        "track" : true,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:5lYLBAH2uSvERWy8GAcBJz"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2022-04-08T14:27:00Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/2zZPvlzwcydImRubRTMoc1"
+            },
+            "href" : "https://api.spotify.com/v1/artists/2zZPvlzwcydImRubRTMoc1",
+            "id" : "2zZPvlzwcydImRubRTMoc1",
+            "name" : "SickDude",
+            "type" : "artist",
+            "uri" : "spotify:artist:2zZPvlzwcydImRubRTMoc1"
+          }, {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/3kjXatEg7YQ0geze2ChfH1"
+            },
+            "href" : "https://api.spotify.com/v1/artists/3kjXatEg7YQ0geze2ChfH1",
+            "id" : "3kjXatEg7YQ0geze2ChfH1",
+            "name" : "YSRBEATS",
+            "type" : "artist",
+            "uri" : "spotify:artist:3kjXatEg7YQ0geze2ChfH1"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/1TbmtHDUtucciYcFp9Hl6O"
+          },
+          "href" : "https://api.spotify.com/v1/albums/1TbmtHDUtucciYcFp9Hl6O",
+          "id" : "1TbmtHDUtucciYcFp9Hl6O",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b27320b1a055e1e7e4e21afd878d",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e0220b1a055e1e7e4e21afd878d",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d0000485120b1a055e1e7e4e21afd878d",
+            "width" : 64
+          } ],
+          "name" : "Dil Mila Mera, Inti Si Bhaat Hai",
+          "release_date" : "2022-03-26",
+          "release_date_precision" : "day",
+          "total_tracks" : 10,
+          "type" : "album",
+          "uri" : "spotify:album:1TbmtHDUtucciYcFp9Hl6O"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2zZPvlzwcydImRubRTMoc1"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2zZPvlzwcydImRubRTMoc1",
+          "id" : "2zZPvlzwcydImRubRTMoc1",
+          "name" : "SickDude",
+          "type" : "artist",
+          "uri" : "spotify:artist:2zZPvlzwcydImRubRTMoc1"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3kjXatEg7YQ0geze2ChfH1"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3kjXatEg7YQ0geze2ChfH1",
+          "id" : "3kjXatEg7YQ0geze2ChfH1",
+          "name" : "YSRBEATS",
+          "type" : "artist",
+          "uri" : "spotify:artist:3kjXatEg7YQ0geze2ChfH1"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 245841,
+        "episode" : false,
+        "explicit" : false,
+        "external_ids" : {
+          "isrc" : "QZQGC2204111"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/7fz1JVXRXaa5Wfu7DcwhfZ"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/7fz1JVXRXaa5Wfu7DcwhfZ",
+        "id" : "7fz1JVXRXaa5Wfu7DcwhfZ",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "Kangna Tera Nee - Slowed + Reverb",
+        "popularity" : 55,
+        "preview_url" : "https://p.scdn.co/mp3-preview/93b1021ab7e931c343e9369572a431da04156788?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 9,
+        "type" : "track",
+        "uri" : "spotify:track:7fz1JVXRXaa5Wfu7DcwhfZ"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2021-10-01T10:11:00Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd"
+            },
+            "href" : "https://api.spotify.com/v1/artists/5dYGaoCO0iaUZKfl9K8Gtd",
+            "id" : "5dYGaoCO0iaUZKfl9K8Gtd",
+            "name" : "Harmless",
+            "type" : "artist",
+            "uri" : "spotify:artist:5dYGaoCO0iaUZKfl9K8Gtd"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/3wah0ODozs7Q39lUvFEwOn"
+          },
+          "href" : "https://api.spotify.com/v1/albums/3wah0ODozs7Q39lUvFEwOn",
+          "id" : "3wah0ODozs7Q39lUvFEwOn",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273a7386c2550c18c09c6db5d94",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02a7386c2550c18c09c6db5d94",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851a7386c2550c18c09c6db5d94",
+            "width" : 64
+          } ],
+          "name" : "Swing Lynn (Slowed Version)",
+          "release_date" : "2020-05-27",
+          "release_date_precision" : "day",
+          "total_tracks" : 1,
+          "type" : "album",
+          "uri" : "spotify:album:3wah0ODozs7Q39lUvFEwOn"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5dYGaoCO0iaUZKfl9K8Gtd",
+          "id" : "5dYGaoCO0iaUZKfl9K8Gtd",
+          "name" : "Harmless",
+          "type" : "artist",
+          "uri" : "spotify:artist:5dYGaoCO0iaUZKfl9K8Gtd"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 448000,
+        "episode" : false,
+        "explicit" : false,
+        "external_ids" : {
+          "isrc" : "TCAEW2073682"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/4WR5MhgQr1TtJfuEgBE4jC"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/4WR5MhgQr1TtJfuEgBE4jC",
+        "id" : "4WR5MhgQr1TtJfuEgBE4jC",
+        "is_local" : false,
+        "is_playable" : true,
+        "linked_from" : {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/track/3lsh4fIbGeHZDFovC0InnY"
+          },
+          "href" : "https://api.spotify.com/v1/tracks/3lsh4fIbGeHZDFovC0InnY",
+          "id" : "3lsh4fIbGeHZDFovC0InnY",
+          "type" : "track",
+          "uri" : "spotify:track:3lsh4fIbGeHZDFovC0InnY"
+        },
+        "name" : "Swing Lynn - Slowed Version",
+        "popularity" : 66,
+        "preview_url" : "https://p.scdn.co/mp3-preview/d984646db874453ca31aa6d5a12ec37896ae4577?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:4WR5MhgQr1TtJfuEgBE4jC"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2022-01-05T18:25:25Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+            },
+            "href" : "https://api.spotify.com/v1/artists/2cFrymmkijnjDg9SS92EPM",
+            "id" : "2cFrymmkijnjDg9SS92EPM",
+            "name" : "blackbear",
+            "type" : "artist",
+            "uri" : "spotify:artist:2cFrymmkijnjDg9SS92EPM"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/6kOe0KBPYTEkJZNJaVj3BA"
+          },
+          "href" : "https://api.spotify.com/v1/albums/6kOe0KBPYTEkJZNJaVj3BA",
+          "id" : "6kOe0KBPYTEkJZNJaVj3BA",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b2731aec91359fc62290190209c0",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e021aec91359fc62290190209c0",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d000048511aec91359fc62290190209c0",
+            "width" : 64
+          } ],
+          "name" : "dirty laundry (slowed)",
+          "release_date" : "2020-12-20",
+          "release_date_precision" : "day",
+          "total_tracks" : 1,
+          "type" : "album",
+          "uri" : "spotify:album:6kOe0KBPYTEkJZNJaVj3BA"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cFrymmkijnjDg9SS92EPM",
+          "id" : "2cFrymmkijnjDg9SS92EPM",
+          "name" : "blackbear",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cFrymmkijnjDg9SS92EPM"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 167369,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "USLD91730914"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/0N2rGjQLuT0GqVueJxjQS6"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/0N2rGjQLuT0GqVueJxjQS6",
+        "id" : "0N2rGjQLuT0GqVueJxjQS6",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "dirty laundry - slowed",
+        "popularity" : 51,
+        "preview_url" : "https://p.scdn.co/mp3-preview/b2794dc8f2795e068323f99caa5d38c284c5dea7?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:0N2rGjQLuT0GqVueJxjQS6"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2022-01-28T05:33:00Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM"
+            },
+            "href" : "https://api.spotify.com/v1/artists/1dABGukgZ8XKKOdd2rVSHM",
+            "id" : "1dABGukgZ8XKKOdd2rVSHM",
+            "name" : "Lofi Fruits Music",
+            "type" : "artist",
+            "uri" : "spotify:artist:1dABGukgZ8XKKOdd2rVSHM"
+          }, {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB"
+            },
+            "href" : "https://api.spotify.com/v1/artists/34b7j3TqM5ramjmt2mc8tB",
+            "id" : "34b7j3TqM5ramjmt2mc8tB",
+            "name" : "Chill Fruits Music",
+            "type" : "artist",
+            "uri" : "spotify:artist:34b7j3TqM5ramjmt2mc8tB"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/2WjTieDvN4poKvJMyQcAP5"
+          },
+          "href" : "https://api.spotify.com/v1/albums/2WjTieDvN4poKvJMyQcAP5",
+          "id" : "2WjTieDvN4poKvJMyQcAP5",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273b90412f2bdc4a1c714c8d2f8",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02b90412f2bdc4a1c714c8d2f8",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851b90412f2bdc4a1c714c8d2f8",
+            "width" : 64
+          } ],
+          "name" : "Easy On Me",
+          "release_date" : "2022-01-28",
+          "release_date_precision" : "day",
+          "total_tracks" : 2,
+          "type" : "album",
+          "uri" : "spotify:album:2WjTieDvN4poKvJMyQcAP5"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dABGukgZ8XKKOdd2rVSHM",
+          "id" : "1dABGukgZ8XKKOdd2rVSHM",
+          "name" : "Lofi Fruits Music",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dABGukgZ8XKKOdd2rVSHM"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB"
+          },
+          "href" : "https://api.spotify.com/v1/artists/34b7j3TqM5ramjmt2mc8tB",
+          "id" : "34b7j3TqM5ramjmt2mc8tB",
+          "name" : "Chill Fruits Music",
+          "type" : "artist",
+          "uri" : "spotify:artist:34b7j3TqM5ramjmt2mc8tB"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 192000,
+        "episode" : false,
+        "explicit" : false,
+        "external_ids" : {
+          "isrc" : "ZZOPM2220735"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/2VQa5cBJCYWrmqZYg17ii3"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/2VQa5cBJCYWrmqZYg17ii3",
+        "id" : "2VQa5cBJCYWrmqZYg17ii3",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "Easy On Me",
+        "popularity" : 47,
+        "preview_url" : "https://p.scdn.co/mp3-preview/ac53dc9efce7664b22957b1bf7a74785801c7fe7?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:2VQa5cBJCYWrmqZYg17ii3"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2021-10-01T10:11:00Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR"
+            },
+            "href" : "https://api.spotify.com/v1/artists/2AtYJoC6VmUtkxonmVnbVR",
+            "id" : "2AtYJoC6VmUtkxonmVnbVR",
+            "name" : "Ryan Celsius Sounds",
+            "type" : "artist",
+            "uri" : "spotify:artist:2AtYJoC6VmUtkxonmVnbVR"
+          }, {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/3PkF2MgUKkl7yrwoQMoY4j"
+            },
+            "href" : "https://api.spotify.com/v1/artists/3PkF2MgUKkl7yrwoQMoY4j",
+            "id" : "3PkF2MgUKkl7yrwoQMoY4j",
+            "name" : "slow//reverb",
+            "type" : "artist",
+            "uri" : "spotify:artist:3PkF2MgUKkl7yrwoQMoY4j"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/5weFCB5J30LYL4R21hSD2m"
+          },
+          "href" : "https://api.spotify.com/v1/albums/5weFCB5J30LYL4R21hSD2m",
+          "id" : "5weFCB5J30LYL4R21hSD2m",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b2732a21dd7d88eb6cea55761d63",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e022a21dd7d88eb6cea55761d63",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d000048512a21dd7d88eb6cea55761d63",
+            "width" : 64
+          } ],
+          "name" : "i met sarah in the bathroom {slow//reverb}",
+          "release_date" : "2020-10-05",
+          "release_date_precision" : "day",
+          "total_tracks" : 1,
+          "type" : "album",
+          "uri" : "spotify:album:5weFCB5J30LYL4R21hSD2m"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2AtYJoC6VmUtkxonmVnbVR",
+          "id" : "2AtYJoC6VmUtkxonmVnbVR",
+          "name" : "Ryan Celsius Sounds",
+          "type" : "artist",
+          "uri" : "spotify:artist:2AtYJoC6VmUtkxonmVnbVR"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3PkF2MgUKkl7yrwoQMoY4j"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3PkF2MgUKkl7yrwoQMoY4j",
+          "id" : "3PkF2MgUKkl7yrwoQMoY4j",
+          "name" : "slow//reverb",
+          "type" : "artist",
+          "uri" : "spotify:artist:3PkF2MgUKkl7yrwoQMoY4j"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 137858,
+        "episode" : false,
+        "explicit" : false,
+        "external_ids" : {
+          "isrc" : "SE6QE2091643"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/0xPU0Sdkrva3RgRIPhK0zq"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/0xPU0Sdkrva3RgRIPhK0zq",
+        "id" : "0xPU0Sdkrva3RgRIPhK0zq",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "i met sarah in the bathroom {slow//reverb}",
+        "popularity" : 65,
+        "preview_url" : "https://p.scdn.co/mp3-preview/a10982c80af92837c4ebf64355c968e08abdf63a?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:0xPU0Sdkrva3RgRIPhK0zq"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2021-10-01T10:11:00Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/2P64m7x4cOMI1uLnZnRj8a"
+            },
+            "href" : "https://api.spotify.com/v1/artists/2P64m7x4cOMI1uLnZnRj8a",
+            "id" : "2P64m7x4cOMI1uLnZnRj8a",
+            "name" : "YOUNG $ELLOUT",
+            "type" : "artist",
+            "uri" : "spotify:artist:2P64m7x4cOMI1uLnZnRj8a"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/0318U1QvSv1qAr9mfpY0LB"
+          },
+          "href" : "https://api.spotify.com/v1/albums/0318U1QvSv1qAr9mfpY0LB",
+          "id" : "0318U1QvSv1qAr9mfpY0LB",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273a058427b32b1c435dfd8bc19",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02a058427b32b1c435dfd8bc19",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851a058427b32b1c435dfd8bc19",
+            "width" : 64
+          } ],
+          "name" : "WHEN EARTH FALLS",
+          "release_date" : "2020-12-25",
+          "release_date_precision" : "day",
+          "total_tracks" : 4,
+          "type" : "album",
+          "uri" : "spotify:album:0318U1QvSv1qAr9mfpY0LB"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2P64m7x4cOMI1uLnZnRj8a"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2P64m7x4cOMI1uLnZnRj8a",
+          "id" : "2P64m7x4cOMI1uLnZnRj8a",
+          "name" : "YOUNG $ELLOUT",
+          "type" : "artist",
+          "uri" : "spotify:artist:2P64m7x4cOMI1uLnZnRj8a"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3K40SMapVhc8PxyYFofHff"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3K40SMapVhc8PxyYFofHff",
+          "id" : "3K40SMapVhc8PxyYFofHff",
+          "name" : "Corbin",
+          "type" : "artist",
+          "uri" : "spotify:artist:3K40SMapVhc8PxyYFofHff"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2tIP7SsRs7vjIcLrU85W8J",
+          "id" : "2tIP7SsRs7vjIcLrU85W8J",
+          "name" : "The Kid LAROI",
+          "type" : "artist",
+          "uri" : "spotify:artist:2tIP7SsRs7vjIcLrU85W8J"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 196568,
+        "episode" : false,
+        "explicit" : false,
+        "external_ids" : {
+          "isrc" : "QZNN22020109"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/3X9DJqqtiG2Uh48TDhtMgn"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/3X9DJqqtiG2Uh48TDhtMgn",
+        "id" : "3X9DJqqtiG2Uh48TDhtMgn",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "NOT FAIR (slowed)",
+        "popularity" : 50,
+        "preview_url" : "https://p.scdn.co/mp3-preview/fe6156344c08bf38182536f20579138453c9ec74?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 3,
+        "type" : "track",
+        "uri" : "spotify:track:3X9DJqqtiG2Uh48TDhtMgn"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2022-03-08T22:07:03Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/0KYOBAf6Zky4CFQne2JPTX"
+            },
+            "href" : "https://api.spotify.com/v1/artists/0KYOBAf6Zky4CFQne2JPTX",
+            "id" : "0KYOBAf6Zky4CFQne2JPTX",
+            "name" : "Hiko",
+            "type" : "artist",
+            "uri" : "spotify:artist:0KYOBAf6Zky4CFQne2JPTX"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/6UgIJhpVmkMfOySEj86xBb"
+          },
+          "href" : "https://api.spotify.com/v1/albums/6UgIJhpVmkMfOySEj86xBb",
+          "id" : "6UgIJhpVmkMfOySEj86xBb",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b27312442e23029107db3a93e4c4",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e0212442e23029107db3a93e4c4",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d0000485112442e23029107db3a93e4c4",
+            "width" : 64
+          } ],
+          "name" : "Wildest Dreams (Slowed + Reverb)",
+          "release_date" : "2021-11-16",
+          "release_date_precision" : "day",
+          "total_tracks" : 1,
+          "type" : "album",
+          "uri" : "spotify:album:6UgIJhpVmkMfOySEj86xBb"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0KYOBAf6Zky4CFQne2JPTX"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0KYOBAf6Zky4CFQne2JPTX",
+          "id" : "0KYOBAf6Zky4CFQne2JPTX",
+          "name" : "Hiko",
+          "type" : "artist",
+          "uri" : "spotify:artist:0KYOBAf6Zky4CFQne2JPTX"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 229714,
+        "episode" : false,
+        "explicit" : false,
+        "external_ids" : {
+          "isrc" : "QZNJY2184990"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/0lkBkXmaFcznNrnDA6Aeuj"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/0lkBkXmaFcznNrnDA6Aeuj",
+        "id" : "0lkBkXmaFcznNrnDA6Aeuj",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "Wildest Dreams (Slowed + Reverb)",
+        "popularity" : 46,
+        "preview_url" : "https://p.scdn.co/mp3-preview/0437ba60a3e22541c7812126519b8ab7aba25955?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:0lkBkXmaFcznNrnDA6Aeuj"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2022-01-05T18:25:25Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "compilation",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/7zmcKgBZSbMxqzqFe6Ac5k"
+            },
+            "href" : "https://api.spotify.com/v1/artists/7zmcKgBZSbMxqzqFe6Ac5k",
+            "id" : "7zmcKgBZSbMxqzqFe6Ac5k",
+            "name" : "Slowed Radio",
+            "type" : "artist",
+            "uri" : "spotify:artist:7zmcKgBZSbMxqzqFe6Ac5k"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/2aOhO8ulqkulygQQ1QHQYD"
+          },
+          "href" : "https://api.spotify.com/v1/albums/2aOhO8ulqkulygQQ1QHQYD",
+          "id" : "2aOhO8ulqkulygQQ1QHQYD",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b2734dbf0fcd28b124a0cfc85951",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e024dbf0fcd28b124a0cfc85951",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d000048514dbf0fcd28b124a0cfc85951",
+            "width" : 64
+          } ],
+          "name" : "slowed + reverb",
+          "release_date" : "2021-09-14",
+          "release_date_precision" : "day",
+          "total_tracks" : 9,
+          "type" : "album",
+          "uri" : "spotify:album:2aOhO8ulqkulygQQ1QHQYD"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3QSQFmccmX81fWCUSPTS7y",
+          "id" : "3QSQFmccmX81fWCUSPTS7y",
+          "name" : "Dean Lewis",
+          "type" : "artist",
+          "uri" : "spotify:artist:3QSQFmccmX81fWCUSPTS7y"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 244561,
+        "episode" : false,
+        "explicit" : false,
+        "external_ids" : {
+          "isrc" : "AUUM72100078"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/51InCzGmodFoqbZpWW8brT"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/51InCzGmodFoqbZpWW8brT",
+        "id" : "51InCzGmodFoqbZpWW8brT",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "Falling Up - slowed n reverbed",
+        "popularity" : 41,
+        "preview_url" : null,
+        "track" : true,
+        "track_number" : 7,
+        "type" : "track",
+        "uri" : "spotify:track:51InCzGmodFoqbZpWW8brT"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2021-10-01T10:11:00Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr"
+            },
+            "href" : "https://api.spotify.com/v1/artists/4RzbexUO843fc5SLqKEQCr",
+            "id" : "4RzbexUO843fc5SLqKEQCr",
+            "name" : "Aaryan Shah",
+            "type" : "artist",
+            "uri" : "spotify:artist:4RzbexUO843fc5SLqKEQCr"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/4hGbyUnXkhjeGdzecA25H0"
+          },
+          "href" : "https://api.spotify.com/v1/albums/4hGbyUnXkhjeGdzecA25H0",
+          "id" : "4hGbyUnXkhjeGdzecA25H0",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b2738a05b51aa8d4f032a58d2366",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e028a05b51aa8d4f032a58d2366",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d000048518a05b51aa8d4f032a58d2366",
+            "width" : 64
+          } ],
+          "name" : "The Arrival: Part I (Slowed + Reverb)",
+          "release_date" : "2019-06-14",
+          "release_date_precision" : "day",
+          "total_tracks" : 5,
+          "type" : "album",
+          "uri" : "spotify:album:4hGbyUnXkhjeGdzecA25H0"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4RzbexUO843fc5SLqKEQCr",
+          "id" : "4RzbexUO843fc5SLqKEQCr",
+          "name" : "Aaryan Shah",
+          "type" : "artist",
+          "uri" : "spotify:artist:4RzbexUO843fc5SLqKEQCr"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 279250,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "QZ85M1947187"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/7lCu7IgWLKeHBGcTR4HfgX"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/7lCu7IgWLKeHBGcTR4HfgX",
+        "id" : "7lCu7IgWLKeHBGcTR4HfgX",
+        "is_local" : false,
+        "is_playable" : true,
+        "linked_from" : {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/track/0lOzjQKnffLWj7i6AqNMJG"
+          },
+          "href" : "https://api.spotify.com/v1/tracks/0lOzjQKnffLWj7i6AqNMJG",
+          "id" : "0lOzjQKnffLWj7i6AqNMJG",
+          "type" : "track",
+          "uri" : "spotify:track:0lOzjQKnffLWj7i6AqNMJG"
+        },
+        "name" : "Renegade (Slowed + Reverb)",
+        "popularity" : 59,
+        "preview_url" : "https://p.scdn.co/mp3-preview/ac74a581d206a4ffc5ab9e60b7d77dc5c28d4714?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 5,
+        "type" : "track",
+        "uri" : "spotify:track:7lCu7IgWLKeHBGcTR4HfgX"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2022-01-14T15:33:53Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+            },
+            "href" : "https://api.spotify.com/v1/artists/2WzaAvm2bBCf4pEhyuDgCY",
+            "id" : "2WzaAvm2bBCf4pEhyuDgCY",
+            "name" : "Ruth B.",
+            "type" : "artist",
+            "uri" : "spotify:artist:2WzaAvm2bBCf4pEhyuDgCY"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/35myBC3ak9OPMye976nuI4"
+          },
+          "href" : "https://api.spotify.com/v1/albums/35myBC3ak9OPMye976nuI4",
+          "id" : "35myBC3ak9OPMye976nuI4",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b27340b5c47d4654db981cf21c28",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e0240b5c47d4654db981cf21c28",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d0000485140b5c47d4654db981cf21c28",
+            "width" : 64
+          } ],
+          "name" : "If By Chance (slowed + reverb)",
+          "release_date" : "2022-01-14",
+          "release_date_precision" : "day",
+          "total_tracks" : 1,
+          "type" : "album",
+          "uri" : "spotify:album:35myBC3ak9OPMye976nuI4"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2WzaAvm2bBCf4pEhyuDgCY",
+          "id" : "2WzaAvm2bBCf4pEhyuDgCY",
+          "name" : "Ruth B.",
+          "type" : "artist",
+          "uri" : "spotify:artist:2WzaAvm2bBCf4pEhyuDgCY"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0JSCWkJNFGt7o4YbYcplQ7",
+          "id" : "0JSCWkJNFGt7o4YbYcplQ7",
+          "name" : "slater",
+          "type" : "artist",
+          "uri" : "spotify:artist:0JSCWkJNFGt7o4YbYcplQ7"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 384770,
+        "episode" : false,
+        "explicit" : false,
+        "external_ids" : {
+          "isrc" : "USSM12109759"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/27fMPdnYNuuFuSQrUNJkqj"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/27fMPdnYNuuFuSQrUNJkqj",
+        "id" : "27fMPdnYNuuFuSQrUNJkqj",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "If By Chance - slowed + reverb",
+        "popularity" : 54,
+        "preview_url" : "https://p.scdn.co/mp3-preview/12d5a4f2ec7d21ca87263d00cdb3febc03f2e9db?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:27fMPdnYNuuFuSQrUNJkqj"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2021-10-01T10:11:00Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/72y6MZHIPEyS64ACSCtIq6"
+            },
+            "href" : "https://api.spotify.com/v1/artists/72y6MZHIPEyS64ACSCtIq6",
+            "id" : "72y6MZHIPEyS64ACSCtIq6",
+            "name" : "Hisohkah",
+            "type" : "artist",
+            "uri" : "spotify:artist:72y6MZHIPEyS64ACSCtIq6"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/7irimAHIFr7vcR2IoJmOgZ"
+          },
+          "href" : "https://api.spotify.com/v1/albums/7irimAHIFr7vcR2IoJmOgZ",
+          "id" : "7irimAHIFr7vcR2IoJmOgZ",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273af10dd64654c62eb04f10018",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02af10dd64654c62eb04f10018",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851af10dd64654c62eb04f10018",
+            "width" : 64
+          } ],
+          "name" : "School Rooftop (Slowed Down Version)",
+          "release_date" : "2021-01-01",
+          "release_date_precision" : "day",
+          "total_tracks" : 1,
+          "type" : "album",
+          "uri" : "spotify:album:7irimAHIFr7vcR2IoJmOgZ"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/72y6MZHIPEyS64ACSCtIq6"
+          },
+          "href" : "https://api.spotify.com/v1/artists/72y6MZHIPEyS64ACSCtIq6",
+          "id" : "72y6MZHIPEyS64ACSCtIq6",
+          "name" : "Hisohkah",
+          "type" : "artist",
+          "uri" : "spotify:artist:72y6MZHIPEyS64ACSCtIq6"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4huXijLHlm8VMzeob86QvD",
+          "id" : "4huXijLHlm8VMzeob86QvD",
+          "name" : "WMD",
+          "type" : "artist",
+          "uri" : "spotify:artist:4huXijLHlm8VMzeob86QvD"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 193732,
+        "episode" : false,
+        "explicit" : false,
+        "external_ids" : {
+          "isrc" : "USA2P2045297"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/6IaSUc4wx1rzo8lGs4KOot"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/6IaSUc4wx1rzo8lGs4KOot",
+        "id" : "6IaSUc4wx1rzo8lGs4KOot",
+        "is_local" : false,
+        "is_playable" : true,
+        "linked_from" : {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/track/1IzqLAnLpITw7SArHU3286"
+          },
+          "href" : "https://api.spotify.com/v1/tracks/1IzqLAnLpITw7SArHU3286",
+          "id" : "1IzqLAnLpITw7SArHU3286",
+          "type" : "track",
+          "uri" : "spotify:track:1IzqLAnLpITw7SArHU3286"
+        },
+        "name" : "School Rooftop - Slowed Down Version",
+        "popularity" : 67,
+        "preview_url" : "https://p.scdn.co/mp3-preview/d8f58a48a40d3857b7c5ba23b0a53c6c67cb5707?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:6IaSUc4wx1rzo8lGs4KOot"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2021-10-01T10:11:00Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF"
+            },
+            "href" : "https://api.spotify.com/v1/artists/357dDcxIE2hkKGn03PClIF",
+            "id" : "357dDcxIE2hkKGn03PClIF",
+            "name" : "YNG Martyr",
+            "type" : "artist",
+            "uri" : "spotify:artist:357dDcxIE2hkKGn03PClIF"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/3NduNanzkjGZgLQE6FUzD9"
+          },
+          "href" : "https://api.spotify.com/v1/albums/3NduNanzkjGZgLQE6FUzD9",
+          "id" : "3NduNanzkjGZgLQE6FUzD9",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273f55dd50f9a7e2f8612f14d1d",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02f55dd50f9a7e2f8612f14d1d",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851f55dd50f9a7e2f8612f14d1d",
+            "width" : 64
+          } ],
+          "name" : "Ease Off (Slowed & Reverbed)",
+          "release_date" : "2021-04-09",
+          "release_date_precision" : "day",
+          "total_tracks" : 1,
+          "type" : "album",
+          "uri" : "spotify:album:3NduNanzkjGZgLQE6FUzD9"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF"
+          },
+          "href" : "https://api.spotify.com/v1/artists/357dDcxIE2hkKGn03PClIF",
+          "id" : "357dDcxIE2hkKGn03PClIF",
+          "name" : "YNG Martyr",
+          "type" : "artist",
+          "uri" : "spotify:artist:357dDcxIE2hkKGn03PClIF"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 161750,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "QM6MZ2144772"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/7yy3QgAa5unQuY2Ulpznbi"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/7yy3QgAa5unQuY2Ulpznbi",
+        "id" : "7yy3QgAa5unQuY2Ulpznbi",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "Ease Off - Slowed & Reverbed",
+        "popularity" : 51,
+        "preview_url" : "https://p.scdn.co/mp3-preview/6e1b93522a9e7f153c77db79f8a5d3d381c7e7dd?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:7yy3QgAa5unQuY2Ulpznbi"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2021-10-01T10:11:00Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM"
+            },
+            "href" : "https://api.spotify.com/v1/artists/1dABGukgZ8XKKOdd2rVSHM",
+            "id" : "1dABGukgZ8XKKOdd2rVSHM",
+            "name" : "Lofi Fruits Music",
+            "type" : "artist",
+            "uri" : "spotify:artist:1dABGukgZ8XKKOdd2rVSHM"
+          }, {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB"
+            },
+            "href" : "https://api.spotify.com/v1/artists/34b7j3TqM5ramjmt2mc8tB",
+            "id" : "34b7j3TqM5ramjmt2mc8tB",
+            "name" : "Chill Fruits Music",
+            "type" : "artist",
+            "uri" : "spotify:artist:34b7j3TqM5ramjmt2mc8tB"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/2eItOEKo3nKSl4VIuOZlHm"
+          },
+          "href" : "https://api.spotify.com/v1/albums/2eItOEKo3nKSl4VIuOZlHm",
+          "id" : "2eItOEKo3nKSl4VIuOZlHm",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b27331af3516a69f2843623143a1",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e0231af3516a69f2843623143a1",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d0000485131af3516a69f2843623143a1",
+            "width" : 64
+          } ],
+          "name" : "Somebody That I Used to Know",
+          "release_date" : "2021-09-03",
+          "release_date_precision" : "day",
+          "total_tracks" : 1,
+          "type" : "album",
+          "uri" : "spotify:album:2eItOEKo3nKSl4VIuOZlHm"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dABGukgZ8XKKOdd2rVSHM",
+          "id" : "1dABGukgZ8XKKOdd2rVSHM",
+          "name" : "Lofi Fruits Music",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dABGukgZ8XKKOdd2rVSHM"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB"
+          },
+          "href" : "https://api.spotify.com/v1/artists/34b7j3TqM5ramjmt2mc8tB",
+          "id" : "34b7j3TqM5ramjmt2mc8tB",
+          "name" : "Chill Fruits Music",
+          "type" : "artist",
+          "uri" : "spotify:artist:34b7j3TqM5ramjmt2mc8tB"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 241326,
+        "episode" : false,
+        "explicit" : false,
+        "external_ids" : {
+          "isrc" : "ZZOPM2108935"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/2q6hCYb7pBCpZmVxfehYV0"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/2q6hCYb7pBCpZmVxfehYV0",
+        "id" : "2q6hCYb7pBCpZmVxfehYV0",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "Somebody That I Used to Know",
+        "popularity" : 54,
+        "preview_url" : "https://p.scdn.co/mp3-preview/310e30f1bcab3ccec134104a3ad7c0ec5d44df17?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:2q6hCYb7pBCpZmVxfehYV0"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2021-10-01T10:11:00Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA"
+            },
+            "href" : "https://api.spotify.com/v1/artists/3ReVTyprRfKmKquryr9UeA",
+            "id" : "3ReVTyprRfKmKquryr9UeA",
+            "name" : "CMTEN",
+            "type" : "artist",
+            "uri" : "spotify:artist:3ReVTyprRfKmKquryr9UeA"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/2q39vwyCoD2GJkY59i307W"
+          },
+          "href" : "https://api.spotify.com/v1/albums/2q39vwyCoD2GJkY59i307W",
+          "id" : "2q39vwyCoD2GJkY59i307W",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b27323b8aeb2f6e33ceac317c61c",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e0223b8aeb2f6e33ceac317c61c",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d0000485123b8aeb2f6e33ceac317c61c",
+            "width" : 64
+          } ],
+          "name" : "NEVER MET! (feat. Glitch Gum) [Slowed]",
+          "release_date" : "2020-06-29",
+          "release_date_precision" : "day",
+          "total_tracks" : 1,
+          "type" : "album",
+          "uri" : "spotify:album:2q39vwyCoD2GJkY59i307W"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3ReVTyprRfKmKquryr9UeA",
+          "id" : "3ReVTyprRfKmKquryr9UeA",
+          "name" : "CMTEN",
+          "type" : "artist",
+          "uri" : "spotify:artist:3ReVTyprRfKmKquryr9UeA"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1wpftBruYql3kTa4Px6kze",
+          "id" : "1wpftBruYql3kTa4Px6kze",
+          "name" : "Glitch Gum",
+          "type" : "artist",
+          "uri" : "spotify:artist:1wpftBruYql3kTa4Px6kze"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 168000,
+        "episode" : false,
+        "explicit" : false,
+        "external_ids" : {
+          "isrc" : "USWB12003135"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/2a68c5nfBcRAGDAyMOVGuX"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/2a68c5nfBcRAGDAyMOVGuX",
+        "id" : "2a68c5nfBcRAGDAyMOVGuX",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "NEVER MET! (feat. Glitch Gum) - Slowed",
+        "popularity" : 49,
+        "preview_url" : "https://p.scdn.co/mp3-preview/cb034e62fd08eaf09c3cc3c8798c9443397814cf?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:2a68c5nfBcRAGDAyMOVGuX"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2022-04-01T04:39:00Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1"
+            },
+            "href" : "https://api.spotify.com/v1/artists/6LlLRudDi60Uy4jcmOSEs1",
+            "id" : "6LlLRudDi60Uy4jcmOSEs1",
+            "name" : "omgkirby",
+            "type" : "artist",
+            "uri" : "spotify:artist:6LlLRudDi60Uy4jcmOSEs1"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/0zzLMtczgpbOogCitwGzMu"
+          },
+          "href" : "https://api.spotify.com/v1/albums/0zzLMtczgpbOogCitwGzMu",
+          "id" : "0zzLMtczgpbOogCitwGzMu",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273b167d12f2686b4582caf3515",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02b167d12f2686b4582caf3515",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851b167d12f2686b4582caf3515",
+            "width" : 64
+          } ],
+          "name" : "when i was your man - slowed + reverb",
+          "release_date" : "2022-03-18",
+          "release_date_precision" : "day",
+          "total_tracks" : 1,
+          "type" : "album",
+          "uri" : "spotify:album:0zzLMtczgpbOogCitwGzMu"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6LlLRudDi60Uy4jcmOSEs1",
+          "id" : "6LlLRudDi60Uy4jcmOSEs1",
+          "name" : "omgkirby",
+          "type" : "artist",
+          "uri" : "spotify:artist:6LlLRudDi60Uy4jcmOSEs1"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 146301,
+        "episode" : false,
+        "explicit" : false,
+        "external_ids" : {
+          "isrc" : "QM24S2200835"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/0tEfc9KsxNAQ05pWKcZTuF"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/0tEfc9KsxNAQ05pWKcZTuF",
+        "id" : "0tEfc9KsxNAQ05pWKcZTuF",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "when i was your man - slowed + reverb",
+        "popularity" : 40,
+        "preview_url" : "https://p.scdn.co/mp3-preview/b7621518c4b465baa65654efe4d94e4d9832c00e?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:0tEfc9KsxNAQ05pWKcZTuF"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2022-04-08T14:27:00Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/00TO7XnRQl7YN3uR2DSsiq"
+            },
+            "href" : "https://api.spotify.com/v1/artists/00TO7XnRQl7YN3uR2DSsiq",
+            "id" : "00TO7XnRQl7YN3uR2DSsiq",
+            "name" : "x♱c",
+            "type" : "artist",
+            "uri" : "spotify:artist:00TO7XnRQl7YN3uR2DSsiq"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/6pDUttVnZy7TrUx8eyqNl4"
+          },
+          "href" : "https://api.spotify.com/v1/albums/6pDUttVnZy7TrUx8eyqNl4",
+          "id" : "6pDUttVnZy7TrUx8eyqNl4",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b2736675fd23138a229166a74b04",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e026675fd23138a229166a74b04",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d000048516675fd23138a229166a74b04",
+            "width" : 64
+          } ],
+          "name" : "money so big (slowed//reverb)",
+          "release_date" : "2022-02-20",
+          "release_date_precision" : "day",
+          "total_tracks" : 1,
+          "type" : "album",
+          "uri" : "spotify:album:6pDUttVnZy7TrUx8eyqNl4"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/00TO7XnRQl7YN3uR2DSsiq"
+          },
+          "href" : "https://api.spotify.com/v1/artists/00TO7XnRQl7YN3uR2DSsiq",
+          "id" : "00TO7XnRQl7YN3uR2DSsiq",
+          "name" : "x♱c",
+          "type" : "artist",
+          "uri" : "spotify:artist:00TO7XnRQl7YN3uR2DSsiq"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3NpbOptkxTtUxF9UDd1NAE"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3NpbOptkxTtUxF9UDd1NAE",
+          "id" : "3NpbOptkxTtUxF9UDd1NAE",
+          "name" : "causality",
+          "type" : "artist",
+          "uri" : "spotify:artist:3NpbOptkxTtUxF9UDd1NAE"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 153530,
+        "episode" : false,
+        "explicit" : false,
+        "external_ids" : {
+          "isrc" : "QZDA62247310"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/5qbtvRsrJB3axsQDZT8CdM"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/5qbtvRsrJB3axsQDZT8CdM",
+        "id" : "5qbtvRsrJB3axsQDZT8CdM",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "money so big - slowed//reverb",
+        "popularity" : 57,
+        "preview_url" : "https://p.scdn.co/mp3-preview/6711e8279efe08a0b68b93bdba9b24ec0d30833d?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:5qbtvRsrJB3axsQDZT8CdM"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2021-10-01T10:11:00Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/3TT4DoOUqqtvMihcXYqowJ"
+            },
+            "href" : "https://api.spotify.com/v1/artists/3TT4DoOUqqtvMihcXYqowJ",
+            "id" : "3TT4DoOUqqtvMihcXYqowJ",
+            "name" : "DJ Covy",
+            "type" : "artist",
+            "uri" : "spotify:artist:3TT4DoOUqqtvMihcXYqowJ"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/7ivxYqHXZqPsPHa9Jk2uoT"
+          },
+          "href" : "https://api.spotify.com/v1/albums/7ivxYqHXZqPsPHa9Jk2uoT",
+          "id" : "7ivxYqHXZqPsPHa9Jk2uoT",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b27399542e85aa2f4bb3e900dfec",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e0299542e85aa2f4bb3e900dfec",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d0000485199542e85aa2f4bb3e900dfec",
+            "width" : 64
+          } ],
+          "name" : "g r e e k t r a g e d y (Slowed)",
+          "release_date" : "2021-01-14",
+          "release_date_precision" : "day",
+          "total_tracks" : 1,
+          "type" : "album",
+          "uri" : "spotify:album:7ivxYqHXZqPsPHa9Jk2uoT"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3TT4DoOUqqtvMihcXYqowJ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3TT4DoOUqqtvMihcXYqowJ",
+          "id" : "3TT4DoOUqqtvMihcXYqowJ",
+          "name" : "DJ Covy",
+          "type" : "artist",
+          "uri" : "spotify:artist:3TT4DoOUqqtvMihcXYqowJ"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 280241,
+        "episode" : false,
+        "explicit" : false,
+        "external_ids" : {
+          "isrc" : "QZFYZ2111087"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/6Jqxp4JxTdqkvFnCBxkzHU"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/6Jqxp4JxTdqkvFnCBxkzHU",
+        "id" : "6Jqxp4JxTdqkvFnCBxkzHU",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "g r e e k t r a g e d y - Slowed",
+        "popularity" : 51,
+        "preview_url" : "https://p.scdn.co/mp3-preview/07d9cb339a9f799bdfff7ee287c22b37573626ed?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:6Jqxp4JxTdqkvFnCBxkzHU"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2022-03-11T15:29:25Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/19yU1mDfHim6ziKP6po5Pi"
+            },
+            "href" : "https://api.spotify.com/v1/artists/19yU1mDfHim6ziKP6po5Pi",
+            "id" : "19yU1mDfHim6ziKP6po5Pi",
+            "name" : "xmxtoon",
+            "type" : "artist",
+            "uri" : "spotify:artist:19yU1mDfHim6ziKP6po5Pi"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/1T6pSOp4SAC3gnm1EHPYyK"
+          },
+          "href" : "https://api.spotify.com/v1/albums/1T6pSOp4SAC3gnm1EHPYyK",
+          "id" : "1T6pSOp4SAC3gnm1EHPYyK",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b2739853bab0a6ea67a58c0176b9",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e029853bab0a6ea67a58c0176b9",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d000048519853bab0a6ea67a58c0176b9",
+            "width" : 64
+          } ],
+          "name" : "mona lisa",
+          "release_date" : "2022-03-11",
+          "release_date_precision" : "day",
+          "total_tracks" : 2,
+          "type" : "album",
+          "uri" : "spotify:album:1T6pSOp4SAC3gnm1EHPYyK"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/19yU1mDfHim6ziKP6po5Pi"
+          },
+          "href" : "https://api.spotify.com/v1/artists/19yU1mDfHim6ziKP6po5Pi",
+          "id" : "19yU1mDfHim6ziKP6po5Pi",
+          "name" : "xmxtoon",
+          "type" : "artist",
+          "uri" : "spotify:artist:19yU1mDfHim6ziKP6po5Pi"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 227956,
+        "episode" : false,
+        "explicit" : false,
+        "external_ids" : {
+          "isrc" : "GBKPL2287447"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/2b8U9TfBCS7Xy3bZUl8qkE"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/2b8U9TfBCS7Xy3bZUl8qkE",
+        "id" : "2b8U9TfBCS7Xy3bZUl8qkE",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "mona lisa - slowed",
+        "popularity" : 43,
+        "preview_url" : "https://p.scdn.co/mp3-preview/2f1197ecd728550675ecf13150c762ab6ff0b92d?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 2,
+        "type" : "track",
+        "uri" : "spotify:track:2b8U9TfBCS7Xy3bZUl8qkE"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2021-12-08T19:40:58Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/5hNoJE5m6FoCBI0SM6lhia"
+            },
+            "href" : "https://api.spotify.com/v1/artists/5hNoJE5m6FoCBI0SM6lhia",
+            "id" : "5hNoJE5m6FoCBI0SM6lhia",
+            "name" : "Chrmng,",
+            "type" : "artist",
+            "uri" : "spotify:artist:5hNoJE5m6FoCBI0SM6lhia"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/6pyXZrnDDGzIo85Oh7X0ko"
+          },
+          "href" : "https://api.spotify.com/v1/albums/6pyXZrnDDGzIo85Oh7X0ko",
+          "id" : "6pyXZrnDDGzIo85Oh7X0ko",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273da4f0dcd314ef0a05201c67f",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02da4f0dcd314ef0a05201c67f",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851da4f0dcd314ef0a05201c67f",
+            "width" : 64
+          } ],
+          "name" : "Are You Lying To Your Therapist About Being Sober Again? Yes. (slowed + reverb)",
+          "release_date" : "2021-11-21",
+          "release_date_precision" : "day",
+          "total_tracks" : 2,
+          "type" : "album",
+          "uri" : "spotify:album:6pyXZrnDDGzIo85Oh7X0ko"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5hNoJE5m6FoCBI0SM6lhia"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5hNoJE5m6FoCBI0SM6lhia",
+          "id" : "5hNoJE5m6FoCBI0SM6lhia",
+          "name" : "Chrmng,",
+          "type" : "artist",
+          "uri" : "spotify:artist:5hNoJE5m6FoCBI0SM6lhia"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 204000,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "QZPLR2119673"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/1OXZ6BMqdf1KOIIzMiY014"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/1OXZ6BMqdf1KOIIzMiY014",
+        "id" : "1OXZ6BMqdf1KOIIzMiY014",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "Are You Lying To Your Therapist About Being Sober Again? Yes. - slowed + reverb",
+        "popularity" : 41,
+        "preview_url" : "https://p.scdn.co/mp3-preview/c2d7afa8c0eba8ff30c0eeebea8571360430cee5?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:1OXZ6BMqdf1KOIIzMiY014"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2021-11-12T14:55:45Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/50Fwc6LYQ2aYsWVN10hhTY"
+            },
+            "href" : "https://api.spotify.com/v1/artists/50Fwc6LYQ2aYsWVN10hhTY",
+            "id" : "50Fwc6LYQ2aYsWVN10hhTY",
+            "name" : "PLAZA",
+            "type" : "artist",
+            "uri" : "spotify:artist:50Fwc6LYQ2aYsWVN10hhTY"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/1dz4vYS8chpVh6qutTn0WT"
+          },
+          "href" : "https://api.spotify.com/v1/albums/1dz4vYS8chpVh6qutTn0WT",
+          "id" : "1dz4vYS8chpVh6qutTn0WT",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273801fed2d46187eaa98a97e80",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02801fed2d46187eaa98a97e80",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851801fed2d46187eaa98a97e80",
+            "width" : 64
+          } ],
+          "name" : "Use Me (Slowed + Reverb)",
+          "release_date" : "2021-11-26",
+          "release_date_precision" : "day",
+          "total_tracks" : 1,
+          "type" : "album",
+          "uri" : "spotify:album:1dz4vYS8chpVh6qutTn0WT"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/50Fwc6LYQ2aYsWVN10hhTY"
+          },
+          "href" : "https://api.spotify.com/v1/artists/50Fwc6LYQ2aYsWVN10hhTY",
+          "id" : "50Fwc6LYQ2aYsWVN10hhTY",
+          "name" : "PLAZA",
+          "type" : "artist",
+          "uri" : "spotify:artist:50Fwc6LYQ2aYsWVN10hhTY"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 279750,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "TCAFW2192877"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/75nT6XIsMfJ1Ul5sF6hlRb"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/75nT6XIsMfJ1Ul5sF6hlRb",
+        "id" : "75nT6XIsMfJ1Ul5sF6hlRb",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "Use Me (Slowed + Reverb)",
+        "popularity" : 46,
+        "preview_url" : "https://p.scdn.co/mp3-preview/87005d6a79bca1665ff3feffaee257860fc6abb9?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:75nT6XIsMfJ1Ul5sF6hlRb"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2022-03-04T16:06:03Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+            },
+            "href" : "https://api.spotify.com/v1/artists/1wxPItEzr7U7rGSMPqZ25r",
+            "id" : "1wxPItEzr7U7rGSMPqZ25r",
+            "name" : "Shiloh Dynasty",
+            "type" : "artist",
+            "uri" : "spotify:artist:1wxPItEzr7U7rGSMPqZ25r"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/26hSYXAxHwYAJHiSZI4pYf"
+          },
+          "href" : "https://api.spotify.com/v1/albums/26hSYXAxHwYAJHiSZI4pYf",
+          "id" : "26hSYXAxHwYAJHiSZI4pYf",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b27391028d75a01774f09a92b87a",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e0291028d75a01774f09a92b87a",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d0000485191028d75a01774f09a92b87a",
+            "width" : 64
+          } ],
+          "name" : "17 (Slowed + reverb)",
+          "release_date" : "2017-10-20",
+          "release_date_precision" : "day",
+          "total_tracks" : 1,
+          "type" : "album",
+          "uri" : "spotify:album:26hSYXAxHwYAJHiSZI4pYf"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1wxPItEzr7U7rGSMPqZ25r",
+          "id" : "1wxPItEzr7U7rGSMPqZ25r",
+          "name" : "Shiloh Dynasty",
+          "type" : "artist",
+          "uri" : "spotify:artist:1wxPItEzr7U7rGSMPqZ25r"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 209420,
+        "episode" : false,
+        "explicit" : false,
+        "external_ids" : {
+          "isrc" : "FR2X42281507"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/4JZEPn3SzzELkEbqtkukKh"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/4JZEPn3SzzELkEbqtkukKh",
+        "id" : "4JZEPn3SzzELkEbqtkukKh",
+        "is_local" : false,
+        "is_playable" : true,
+        "linked_from" : {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/track/2bhNs0A7Ve6KkLex0ICLxG"
+          },
+          "href" : "https://api.spotify.com/v1/tracks/2bhNs0A7Ve6KkLex0ICLxG",
+          "id" : "2bhNs0A7Ve6KkLex0ICLxG",
+          "type" : "track",
+          "uri" : "spotify:track:2bhNs0A7Ve6KkLex0ICLxG"
+        },
+        "name" : "17 - Slowed + reverb",
+        "popularity" : 43,
+        "preview_url" : "https://p.scdn.co/mp3-preview/837e7d618b170d042949917fe7e973874523fbb1?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:4JZEPn3SzzELkEbqtkukKh"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2021-10-01T10:11:00Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+            },
+            "href" : "https://api.spotify.com/v1/artists/1oPRcJUkloHaRLYx0olBLJ",
+            "id" : "1oPRcJUkloHaRLYx0olBLJ",
+            "name" : "Magdalena Bay",
+            "type" : "artist",
+            "uri" : "spotify:artist:1oPRcJUkloHaRLYx0olBLJ"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/4Ey0ngdLf4iXL84gdv0zjA"
+          },
+          "href" : "https://api.spotify.com/v1/albums/4Ey0ngdLf4iXL84gdv0zjA",
+          "id" : "4Ey0ngdLf4iXL84gdv0zjA",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b27368b647e4976494925778007f",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e0268b647e4976494925778007f",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d0000485168b647e4976494925778007f",
+            "width" : 64
+          } ],
+          "name" : "Killshot (Slowed + Reverb)",
+          "release_date" : "2021-02-05",
+          "release_date_precision" : "day",
+          "total_tracks" : 1,
+          "type" : "album",
+          "uri" : "spotify:album:4Ey0ngdLf4iXL84gdv0zjA"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1oPRcJUkloHaRLYx0olBLJ",
+          "id" : "1oPRcJUkloHaRLYx0olBLJ",
+          "name" : "Magdalena Bay",
+          "type" : "artist",
+          "uri" : "spotify:artist:1oPRcJUkloHaRLYx0olBLJ"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 278074,
+        "episode" : false,
+        "explicit" : false,
+        "external_ids" : {
+          "isrc" : "QM4TW2159251"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/6pdyvJQkPkwo2WoDH7tFHO"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/6pdyvJQkPkwo2WoDH7tFHO",
+        "id" : "6pdyvJQkPkwo2WoDH7tFHO",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "Killshot - Slowed + Reverb",
+        "popularity" : 64,
+        "preview_url" : "https://p.scdn.co/mp3-preview/3492dc2e4cdbf6195754d3e9a1b6d717995ad3bb?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:6pdyvJQkPkwo2WoDH7tFHO"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2021-10-01T10:11:00Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1"
+            },
+            "href" : "https://api.spotify.com/v1/artists/6LlLRudDi60Uy4jcmOSEs1",
+            "id" : "6LlLRudDi60Uy4jcmOSEs1",
+            "name" : "omgkirby",
+            "type" : "artist",
+            "uri" : "spotify:artist:6LlLRudDi60Uy4jcmOSEs1"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/3znNGjAnJQMoOAmWJWmzW8"
+          },
+          "href" : "https://api.spotify.com/v1/albums/3znNGjAnJQMoOAmWJWmzW8",
+          "id" : "3znNGjAnJQMoOAmWJWmzW8",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b27310781ddc1cb483c202948ecc",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e0210781ddc1cb483c202948ecc",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d0000485110781ddc1cb483c202948ecc",
+            "width" : 64
+          } ],
+          "name" : "arcade",
+          "release_date" : "2021-09-03",
+          "release_date_precision" : "day",
+          "total_tracks" : 1,
+          "type" : "album",
+          "uri" : "spotify:album:3znNGjAnJQMoOAmWJWmzW8"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6LlLRudDi60Uy4jcmOSEs1",
+          "id" : "6LlLRudDi60Uy4jcmOSEs1",
+          "name" : "omgkirby",
+          "type" : "artist",
+          "uri" : "spotify:artist:6LlLRudDi60Uy4jcmOSEs1"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 100000,
+        "episode" : false,
+        "explicit" : false,
+        "external_ids" : {
+          "isrc" : "QZMEM2176959"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/3YUrTgRbFtmaSHQRa8S4tj"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/3YUrTgRbFtmaSHQRa8S4tj",
+        "id" : "3YUrTgRbFtmaSHQRa8S4tj",
+        "is_local" : false,
+        "is_playable" : true,
+        "linked_from" : {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/track/2BQJFATEPDJNdRw3bpjwCJ"
+          },
+          "href" : "https://api.spotify.com/v1/tracks/2BQJFATEPDJNdRw3bpjwCJ",
+          "id" : "2BQJFATEPDJNdRw3bpjwCJ",
+          "type" : "track",
+          "uri" : "spotify:track:2BQJFATEPDJNdRw3bpjwCJ"
+        },
+        "name" : "arcade",
+        "popularity" : 48,
+        "preview_url" : "https://p.scdn.co/mp3-preview/81ae74caf27ce19d9842d9d8b1f9ee6fce95e019?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:3YUrTgRbFtmaSHQRa8S4tj"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2022-01-28T05:33:00Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+            },
+            "href" : "https://api.spotify.com/v1/artists/0z4gvV4rjIZ9wHck67ucSV",
+            "id" : "0z4gvV4rjIZ9wHck67ucSV",
+            "name" : "Akon",
+            "type" : "artist",
+            "uri" : "spotify:artist:0z4gvV4rjIZ9wHck67ucSV"
+          }, {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr"
+            },
+            "href" : "https://api.spotify.com/v1/artists/4kBCXTJBl1aY9pDHONsjfr",
+            "id" : "4kBCXTJBl1aY9pDHONsjfr",
+            "name" : "xxtristanxo",
+            "type" : "artist",
+            "uri" : "spotify:artist:4kBCXTJBl1aY9pDHONsjfr"
+          }, {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/7zmcKgBZSbMxqzqFe6Ac5k"
+            },
+            "href" : "https://api.spotify.com/v1/artists/7zmcKgBZSbMxqzqFe6Ac5k",
+            "id" : "7zmcKgBZSbMxqzqFe6Ac5k",
+            "name" : "Slowed Radio",
+            "type" : "artist",
+            "uri" : "spotify:artist:7zmcKgBZSbMxqzqFe6Ac5k"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/4oMLAtWY28kQydDGxnrZxj"
+          },
+          "href" : "https://api.spotify.com/v1/albums/4oMLAtWY28kQydDGxnrZxj",
+          "id" : "4oMLAtWY28kQydDGxnrZxj",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273c2f3e230f912a3d82db1aa57",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02c2f3e230f912a3d82db1aa57",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851c2f3e230f912a3d82db1aa57",
+            "width" : 64
+          } ],
+          "name" : "Bananza (Belly Dancer) [Remixes]",
+          "release_date" : "2022-01-27",
+          "release_date_precision" : "day",
+          "total_tracks" : 3,
+          "type" : "album",
+          "uri" : "spotify:album:4oMLAtWY28kQydDGxnrZxj"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0z4gvV4rjIZ9wHck67ucSV",
+          "id" : "0z4gvV4rjIZ9wHck67ucSV",
+          "name" : "Akon",
+          "type" : "artist",
+          "uri" : "spotify:artist:0z4gvV4rjIZ9wHck67ucSV"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4kBCXTJBl1aY9pDHONsjfr",
+          "id" : "4kBCXTJBl1aY9pDHONsjfr",
+          "name" : "xxtristanxo",
+          "type" : "artist",
+          "uri" : "spotify:artist:4kBCXTJBl1aY9pDHONsjfr"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7zmcKgBZSbMxqzqFe6Ac5k"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7zmcKgBZSbMxqzqFe6Ac5k",
+          "id" : "7zmcKgBZSbMxqzqFe6Ac5k",
+          "name" : "Slowed Radio",
+          "type" : "artist",
+          "uri" : "spotify:artist:7zmcKgBZSbMxqzqFe6Ac5k"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 153264,
+        "episode" : false,
+        "explicit" : false,
+        "external_ids" : {
+          "isrc" : "USUM72200888"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/5lEx9Oo3tMyP85ppH43Uar"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/5lEx9Oo3tMyP85ppH43Uar",
+        "id" : "5lEx9Oo3tMyP85ppH43Uar",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "Bananza (Belly Dancer) - Slowed",
+        "popularity" : 55,
+        "preview_url" : null,
+        "track" : true,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:5lEx9Oo3tMyP85ppH43Uar"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2022-02-04T07:45:00Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/1RmSC77TcLJOAryLDXEpbZ"
+            },
+            "href" : "https://api.spotify.com/v1/artists/1RmSC77TcLJOAryLDXEpbZ",
+            "id" : "1RmSC77TcLJOAryLDXEpbZ",
+            "name" : "ZRobb",
+            "type" : "artist",
+            "uri" : "spotify:artist:1RmSC77TcLJOAryLDXEpbZ"
+          }, {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+            },
+            "href" : "https://api.spotify.com/v1/artists/1wxPItEzr7U7rGSMPqZ25r",
+            "id" : "1wxPItEzr7U7rGSMPqZ25r",
+            "name" : "Shiloh Dynasty",
+            "type" : "artist",
+            "uri" : "spotify:artist:1wxPItEzr7U7rGSMPqZ25r"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/7wZAMRDwtGZqiUDy1fxIbz"
+          },
+          "href" : "https://api.spotify.com/v1/albums/7wZAMRDwtGZqiUDy1fxIbz",
+          "id" : "7wZAMRDwtGZqiUDy1fxIbz",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b2733dcbc4f48b5eceb8b564a340",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e023dcbc4f48b5eceb8b564a340",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d000048513dcbc4f48b5eceb8b564a340",
+            "width" : 64
+          } ],
+          "name" : "Please Don’t Kill My Vibes",
+          "release_date" : "2022-02-04",
+          "release_date_precision" : "day",
+          "total_tracks" : 9,
+          "type" : "album",
+          "uri" : "spotify:album:7wZAMRDwtGZqiUDy1fxIbz"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1RmSC77TcLJOAryLDXEpbZ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1RmSC77TcLJOAryLDXEpbZ",
+          "id" : "1RmSC77TcLJOAryLDXEpbZ",
+          "name" : "ZRobb",
+          "type" : "artist",
+          "uri" : "spotify:artist:1RmSC77TcLJOAryLDXEpbZ"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1wxPItEzr7U7rGSMPqZ25r",
+          "id" : "1wxPItEzr7U7rGSMPqZ25r",
+          "name" : "Shiloh Dynasty",
+          "type" : "artist",
+          "uri" : "spotify:artist:1wxPItEzr7U7rGSMPqZ25r"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 129287,
+        "episode" : false,
+        "explicit" : false,
+        "external_ids" : {
+          "isrc" : "CA5KR0027840"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/4h2JCQFzIhhKnpRVPiygHe"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/4h2JCQFzIhhKnpRVPiygHe",
+        "id" : "4h2JCQFzIhhKnpRVPiygHe",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "I Miss You 2 - Slowed and Reverb",
+        "popularity" : 36,
+        "preview_url" : "https://p.scdn.co/mp3-preview/987aeabe88941e2b226d5cf75ebbc1743b9187a7?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 5,
+        "type" : "track",
+        "uri" : "spotify:track:4h2JCQFzIhhKnpRVPiygHe"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2021-10-01T10:11:00Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q"
+            },
+            "href" : "https://api.spotify.com/v1/artists/4qUoZ6ErhTYFhAI0W1iI9q",
+            "id" : "4qUoZ6ErhTYFhAI0W1iI9q",
+            "name" : "Ezekiel",
+            "type" : "artist",
+            "uri" : "spotify:artist:4qUoZ6ErhTYFhAI0W1iI9q"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/7MyfgVtudevZkaalHSpE46"
+          },
+          "href" : "https://api.spotify.com/v1/albums/7MyfgVtudevZkaalHSpE46",
+          "id" : "7MyfgVtudevZkaalHSpE46",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273bf18c161823b827799ff4aa8",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02bf18c161823b827799ff4aa8",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851bf18c161823b827799ff4aa8",
+            "width" : 64
+          } ],
+          "name" : "help_urself (Alternates)",
+          "release_date" : "2021-09-10",
+          "release_date_precision" : "day",
+          "total_tracks" : 3,
+          "type" : "album",
+          "uri" : "spotify:album:7MyfgVtudevZkaalHSpE46"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4qUoZ6ErhTYFhAI0W1iI9q",
+          "id" : "4qUoZ6ErhTYFhAI0W1iI9q",
+          "name" : "Ezekiel",
+          "type" : "artist",
+          "uri" : "spotify:artist:4qUoZ6ErhTYFhAI0W1iI9q"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 151431,
+        "episode" : false,
+        "explicit" : false,
+        "external_ids" : {
+          "isrc" : "USWB12103267"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/6ivAviar2zmiKrQ397I4rG"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/6ivAviar2zmiKrQ397I4rG",
+        "id" : "6ivAviar2zmiKrQ397I4rG",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "help_urself - slowed",
+        "popularity" : 64,
+        "preview_url" : "https://p.scdn.co/mp3-preview/1a02ac035a8a83b9552d798e8caf312301ddae92?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 2,
+        "type" : "track",
+        "uri" : "spotify:track:6ivAviar2zmiKrQ397I4rG"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2021-10-01T10:11:00Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/3S3kyfXZfNa5DbHEmzc09r"
+            },
+            "href" : "https://api.spotify.com/v1/artists/3S3kyfXZfNa5DbHEmzc09r",
+            "id" : "3S3kyfXZfNa5DbHEmzc09r",
+            "name" : "Palm Paradise",
+            "type" : "artist",
+            "uri" : "spotify:artist:3S3kyfXZfNa5DbHEmzc09r"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/5CFoeFNnTwbSu9PYxjqUBH"
+          },
+          "href" : "https://api.spotify.com/v1/albums/5CFoeFNnTwbSu9PYxjqUBH",
+          "id" : "5CFoeFNnTwbSu9PYxjqUBH",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273ecd041fc88ed58dc54ebd854",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02ecd041fc88ed58dc54ebd854",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851ecd041fc88ed58dc54ebd854",
+            "width" : 64
+          } ],
+          "name" : "On Her Own (Slowed + Reverb)",
+          "release_date" : "2020-09-25",
+          "release_date_precision" : "day",
+          "total_tracks" : 1,
+          "type" : "album",
+          "uri" : "spotify:album:5CFoeFNnTwbSu9PYxjqUBH"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3S3kyfXZfNa5DbHEmzc09r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3S3kyfXZfNa5DbHEmzc09r",
+          "id" : "3S3kyfXZfNa5DbHEmzc09r",
+          "name" : "Palm Paradise",
+          "type" : "artist",
+          "uri" : "spotify:artist:3S3kyfXZfNa5DbHEmzc09r"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 120403,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "QZK6G2017536"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/7If5tD4wQaZr2FKDBX7MLY"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/7If5tD4wQaZr2FKDBX7MLY",
+        "id" : "7If5tD4wQaZr2FKDBX7MLY",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "On Her Own (Slowed + Reverb)",
+        "popularity" : 46,
+        "preview_url" : "https://p.scdn.co/mp3-preview/0a0052acc11f9d0641f847407e343ec07714da63?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:7If5tD4wQaZr2FKDBX7MLY"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2021-12-03T14:24:49Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+            },
+            "href" : "https://api.spotify.com/v1/artists/0ZUvK7zGdXLd78mQr3t1Tw",
+            "id" : "0ZUvK7zGdXLd78mQr3t1Tw",
+            "name" : "Ricky Montgomery",
+            "type" : "artist",
+            "uri" : "spotify:artist:0ZUvK7zGdXLd78mQr3t1Tw"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/2xC918XnDFsH6h6qc6R7li"
+          },
+          "href" : "https://api.spotify.com/v1/albums/2xC918XnDFsH6h6qc6R7li",
+          "id" : "2xC918XnDFsH6h6qc6R7li",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b27313515aea407b5bd9d507467e",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e0213515aea407b5bd9d507467e",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d0000485113515aea407b5bd9d507467e",
+            "width" : 64
+          } ],
+          "name" : "This December (slow)",
+          "release_date" : "2021-12-01",
+          "release_date_precision" : "day",
+          "total_tracks" : 2,
+          "type" : "album",
+          "uri" : "spotify:album:2xC918XnDFsH6h6qc6R7li"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0ZUvK7zGdXLd78mQr3t1Tw",
+          "id" : "0ZUvK7zGdXLd78mQr3t1Tw",
+          "name" : "Ricky Montgomery",
+          "type" : "artist",
+          "uri" : "spotify:artist:0ZUvK7zGdXLd78mQr3t1Tw"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 213783,
+        "episode" : false,
+        "explicit" : false,
+        "external_ids" : {
+          "isrc" : "USWB12105149"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/5x4R7DNsMj5ZFSJR63GVjV"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/5x4R7DNsMj5ZFSJR63GVjV",
+        "id" : "5x4R7DNsMj5ZFSJR63GVjV",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "This December - slow",
+        "popularity" : 47,
+        "preview_url" : "https://p.scdn.co/mp3-preview/d71c1b335d29c8d50a60b4c7f338d3eb32b71861?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:5x4R7DNsMj5ZFSJR63GVjV"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2021-10-01T10:11:00Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/56buqkxKfQXzJGiLNkfNxn"
+            },
+            "href" : "https://api.spotify.com/v1/artists/56buqkxKfQXzJGiLNkfNxn",
+            "id" : "56buqkxKfQXzJGiLNkfNxn",
+            "name" : "Chan's Night Out",
+            "type" : "artist",
+            "uri" : "spotify:artist:56buqkxKfQXzJGiLNkfNxn"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/5emMGltzeCZP5bKH5Zhqxa"
+          },
+          "href" : "https://api.spotify.com/v1/albums/5emMGltzeCZP5bKH5Zhqxa",
+          "id" : "5emMGltzeCZP5bKH5Zhqxa",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b27394e11d3afd93d48b87ed9fe6",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e0294e11d3afd93d48b87ed9fe6",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d0000485194e11d3afd93d48b87ed9fe6",
+            "width" : 64
+          } ],
+          "name" : "Slowed + Reverb, Vol. 1",
+          "release_date" : "2020-02-02",
+          "release_date_precision" : "day",
+          "total_tracks" : 5,
+          "type" : "album",
+          "uri" : "spotify:album:5emMGltzeCZP5bKH5Zhqxa"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/56buqkxKfQXzJGiLNkfNxn"
+          },
+          "href" : "https://api.spotify.com/v1/artists/56buqkxKfQXzJGiLNkfNxn",
+          "id" : "56buqkxKfQXzJGiLNkfNxn",
+          "name" : "Chan's Night Out",
+          "type" : "artist",
+          "uri" : "spotify:artist:56buqkxKfQXzJGiLNkfNxn"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 174390,
+        "episode" : false,
+        "explicit" : false,
+        "external_ids" : {
+          "isrc" : "QZFYZ2093085"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/7aFLvAnoqd35te3cKFHxKo"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/7aFLvAnoqd35te3cKFHxKo",
+        "id" : "7aFLvAnoqd35te3cKFHxKo",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "Addict (Slowed and Reverb)",
+        "popularity" : 45,
+        "preview_url" : "https://p.scdn.co/mp3-preview/a93d738b8a84d51ae95925097499dbe75af78cc3?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 2,
+        "type" : "track",
+        "uri" : "spotify:track:7aFLvAnoqd35te3cKFHxKo"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2022-01-28T05:33:00Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/597h7tVXuB7UPU6uWKhRkO"
+            },
+            "href" : "https://api.spotify.com/v1/artists/597h7tVXuB7UPU6uWKhRkO",
+            "id" : "597h7tVXuB7UPU6uWKhRkO",
+            "name" : "Brooksie",
+            "type" : "artist",
+            "uri" : "spotify:artist:597h7tVXuB7UPU6uWKhRkO"
+          }, {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/3YHua7prRuYDIBcDUfVMhO"
+            },
+            "href" : "https://api.spotify.com/v1/artists/3YHua7prRuYDIBcDUfVMhO",
+            "id" : "3YHua7prRuYDIBcDUfVMhO",
+            "name" : "slow reverb",
+            "type" : "artist",
+            "uri" : "spotify:artist:3YHua7prRuYDIBcDUfVMhO"
+          }, {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR"
+            },
+            "href" : "https://api.spotify.com/v1/artists/2AtYJoC6VmUtkxonmVnbVR",
+            "id" : "2AtYJoC6VmUtkxonmVnbVR",
+            "name" : "Ryan Celsius Sounds",
+            "type" : "artist",
+            "uri" : "spotify:artist:2AtYJoC6VmUtkxonmVnbVR"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/50MOfHThNvPAZtR4biD1H1"
+          },
+          "href" : "https://api.spotify.com/v1/albums/50MOfHThNvPAZtR4biD1H1",
+          "id" : "50MOfHThNvPAZtR4biD1H1",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b2731fafe711e76d281d211c9800",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e021fafe711e76d281d211c9800",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d000048511fafe711e76d281d211c9800",
+            "width" : 64
+          } ],
+          "name" : "Not Into You {slow//reverb}",
+          "release_date" : "2022-01-28",
+          "release_date_precision" : "day",
+          "total_tracks" : 1,
+          "type" : "album",
+          "uri" : "spotify:album:50MOfHThNvPAZtR4biD1H1"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/597h7tVXuB7UPU6uWKhRkO"
+          },
+          "href" : "https://api.spotify.com/v1/artists/597h7tVXuB7UPU6uWKhRkO",
+          "id" : "597h7tVXuB7UPU6uWKhRkO",
+          "name" : "Brooksie",
+          "type" : "artist",
+          "uri" : "spotify:artist:597h7tVXuB7UPU6uWKhRkO"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2AtYJoC6VmUtkxonmVnbVR",
+          "id" : "2AtYJoC6VmUtkxonmVnbVR",
+          "name" : "Ryan Celsius Sounds",
+          "type" : "artist",
+          "uri" : "spotify:artist:2AtYJoC6VmUtkxonmVnbVR"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3YHua7prRuYDIBcDUfVMhO"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3YHua7prRuYDIBcDUfVMhO",
+          "id" : "3YHua7prRuYDIBcDUfVMhO",
+          "name" : "slow reverb",
+          "type" : "artist",
+          "uri" : "spotify:artist:3YHua7prRuYDIBcDUfVMhO"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 177080,
+        "episode" : false,
+        "explicit" : false,
+        "external_ids" : {
+          "isrc" : "SE5BU2258806"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/3jQkpibAH6KQi0Nmq5Js5D"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/3jQkpibAH6KQi0Nmq5Js5D",
+        "id" : "3jQkpibAH6KQi0Nmq5Js5D",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "Not Into You {slow//reverb} - Remix",
+        "popularity" : 48,
+        "preview_url" : "https://p.scdn.co/mp3-preview/f5ff309c8f63afffb10d368a0cc6b987e5289f81?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:3jQkpibAH6KQi0Nmq5Js5D"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2021-10-01T10:11:00Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/70uBplYS9d9GUfEKVusJw6"
+            },
+            "href" : "https://api.spotify.com/v1/artists/70uBplYS9d9GUfEKVusJw6",
+            "id" : "70uBplYS9d9GUfEKVusJw6",
+            "name" : "CRASPORE",
+            "type" : "artist",
+            "uri" : "spotify:artist:70uBplYS9d9GUfEKVusJw6"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/7eO75JwSheXFOmkep315aR"
+          },
+          "href" : "https://api.spotify.com/v1/albums/7eO75JwSheXFOmkep315aR",
+          "id" : "7eO75JwSheXFOmkep315aR",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b27301f1b72a40729d95171d245f",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e0201f1b72a40729d95171d245f",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d0000485101f1b72a40729d95171d245f",
+            "width" : 64
+          } ],
+          "name" : "Flashbacks (Slowed)",
+          "release_date" : "2021-06-09",
+          "release_date_precision" : "day",
+          "total_tracks" : 1,
+          "type" : "album",
+          "uri" : "spotify:album:7eO75JwSheXFOmkep315aR"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/70uBplYS9d9GUfEKVusJw6"
+          },
+          "href" : "https://api.spotify.com/v1/artists/70uBplYS9d9GUfEKVusJw6",
+          "id" : "70uBplYS9d9GUfEKVusJw6",
+          "name" : "CRASPORE",
+          "type" : "artist",
+          "uri" : "spotify:artist:70uBplYS9d9GUfEKVusJw6"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 402952,
+        "episode" : false,
+        "explicit" : false,
+        "external_ids" : {
+          "isrc" : "AEA0Q2153535"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/1tiYiTDSrtOTVVg0cym5S1"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/1tiYiTDSrtOTVVg0cym5S1",
+        "id" : "1tiYiTDSrtOTVVg0cym5S1",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "Flashbacks (Slowed)",
+        "popularity" : 66,
+        "preview_url" : "https://p.scdn.co/mp3-preview/87a686e85580c1013fdbf8aa002eab9c7ca5152b?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:1tiYiTDSrtOTVVg0cym5S1"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2022-02-04T07:45:00Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/1RmSC77TcLJOAryLDXEpbZ"
+            },
+            "href" : "https://api.spotify.com/v1/artists/1RmSC77TcLJOAryLDXEpbZ",
+            "id" : "1RmSC77TcLJOAryLDXEpbZ",
+            "name" : "ZRobb",
+            "type" : "artist",
+            "uri" : "spotify:artist:1RmSC77TcLJOAryLDXEpbZ"
+          }, {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+            },
+            "href" : "https://api.spotify.com/v1/artists/1wxPItEzr7U7rGSMPqZ25r",
+            "id" : "1wxPItEzr7U7rGSMPqZ25r",
+            "name" : "Shiloh Dynasty",
+            "type" : "artist",
+            "uri" : "spotify:artist:1wxPItEzr7U7rGSMPqZ25r"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/7wZAMRDwtGZqiUDy1fxIbz"
+          },
+          "href" : "https://api.spotify.com/v1/albums/7wZAMRDwtGZqiUDy1fxIbz",
+          "id" : "7wZAMRDwtGZqiUDy1fxIbz",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b2733dcbc4f48b5eceb8b564a340",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e023dcbc4f48b5eceb8b564a340",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d000048513dcbc4f48b5eceb8b564a340",
+            "width" : 64
+          } ],
+          "name" : "Please Don’t Kill My Vibes",
+          "release_date" : "2022-02-04",
+          "release_date_precision" : "day",
+          "total_tracks" : 9,
+          "type" : "album",
+          "uri" : "spotify:album:7wZAMRDwtGZqiUDy1fxIbz"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1RmSC77TcLJOAryLDXEpbZ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1RmSC77TcLJOAryLDXEpbZ",
+          "id" : "1RmSC77TcLJOAryLDXEpbZ",
+          "name" : "ZRobb",
+          "type" : "artist",
+          "uri" : "spotify:artist:1RmSC77TcLJOAryLDXEpbZ"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1wxPItEzr7U7rGSMPqZ25r",
+          "id" : "1wxPItEzr7U7rGSMPqZ25r",
+          "name" : "Shiloh Dynasty",
+          "type" : "artist",
+          "uri" : "spotify:artist:1wxPItEzr7U7rGSMPqZ25r"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 208793,
+        "episode" : false,
+        "explicit" : false,
+        "external_ids" : {
+          "isrc" : "CA5KR0027836"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/3fUr3a6WI1j2zpvBm6YoD1"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/3fUr3a6WI1j2zpvBm6YoD1",
+        "id" : "3fUr3a6WI1j2zpvBm6YoD1",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "Losing It - Slowed and Reverb",
+        "popularity" : 47,
+        "preview_url" : "https://p.scdn.co/mp3-preview/71b04bd1653d750f78636c657cbf25cdd2a91eaf?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:3fUr3a6WI1j2zpvBm6YoD1"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2021-10-01T10:11:00Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "album",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+            },
+            "href" : "https://api.spotify.com/v1/artists/4Gso3d4CscCijv0lmajZWs",
+            "id" : "4Gso3d4CscCijv0lmajZWs",
+            "name" : "Don Toliver",
+            "type" : "artist",
+            "uri" : "spotify:artist:4Gso3d4CscCijv0lmajZWs"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/69RuKg34VBwhfiGuMpXUWQ"
+          },
+          "href" : "https://api.spotify.com/v1/albums/69RuKg34VBwhfiGuMpXUWQ",
+          "id" : "69RuKg34VBwhfiGuMpXUWQ",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b2737978515522c548461e16cc61",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e027978515522c548461e16cc61",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d000048517978515522c548461e16cc61",
+            "width" : 64
+          } ],
+          "name" : "Heaven Or Hell (CHOPNOTSLOP REMIX)",
+          "release_date" : "2020-04-17",
+          "release_date_precision" : "day",
+          "total_tracks" : 12,
+          "type" : "album",
+          "uri" : "spotify:album:69RuKg34VBwhfiGuMpXUWQ"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4Gso3d4CscCijv0lmajZWs",
+          "id" : "4Gso3d4CscCijv0lmajZWs",
+          "name" : "Don Toliver",
+          "type" : "artist",
+          "uri" : "spotify:artist:4Gso3d4CscCijv0lmajZWs"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0Ld26D4Ya5Od7ZZpLanfQJ",
+          "id" : "0Ld26D4Ya5Od7ZZpLanfQJ",
+          "name" : "DJ Candlestick",
+          "type" : "artist",
+          "uri" : "spotify:artist:0Ld26D4Ya5Od7ZZpLanfQJ"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2LQF8AgyQUgLfquM92Rx8N",
+          "id" : "2LQF8AgyQUgLfquM92Rx8N",
+          "name" : "OG Ron C",
+          "type" : "artist",
+          "uri" : "spotify:artist:2LQF8AgyQUgLfquM92Rx8N"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 200453,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "USAT22002211"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/5LNi0DUiEQ4Sp6JA5XUSIA"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/5LNi0DUiEQ4Sp6JA5XUSIA",
+        "id" : "5LNi0DUiEQ4Sp6JA5XUSIA",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "After Party - CHOPNOTSLOP REMIX",
+        "popularity" : 57,
+        "preview_url" : "https://p.scdn.co/mp3-preview/1701690e658117861d9a7ee4cc4fb18b5c66b527?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 11,
+        "type" : "track",
+        "uri" : "spotify:track:5LNi0DUiEQ4Sp6JA5XUSIA"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2021-10-01T10:11:00Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk"
+            },
+            "href" : "https://api.spotify.com/v1/artists/1wJNeTGqvB8WVYak3HC3pk",
+            "id" : "1wJNeTGqvB8WVYak3HC3pk",
+            "name" : "Hucci",
+            "type" : "artist",
+            "uri" : "spotify:artist:1wJNeTGqvB8WVYak3HC3pk"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/7JVv3XN7S5KtI8MqSrVLjr"
+          },
+          "href" : "https://api.spotify.com/v1/albums/7JVv3XN7S5KtI8MqSrVLjr",
+          "id" : "7JVv3XN7S5KtI8MqSrVLjr",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b2733965526b9bca76a326187d23",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e023965526b9bca76a326187d23",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d000048513965526b9bca76a326187d23",
+            "width" : 64
+          } ],
+          "name" : "Vision (Slowed)",
+          "release_date" : "2019-12-18",
+          "release_date_precision" : "day",
+          "total_tracks" : 1,
+          "type" : "album",
+          "uri" : "spotify:album:7JVv3XN7S5KtI8MqSrVLjr"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1wJNeTGqvB8WVYak3HC3pk",
+          "id" : "1wJNeTGqvB8WVYak3HC3pk",
+          "name" : "Hucci",
+          "type" : "artist",
+          "uri" : "spotify:artist:1wJNeTGqvB8WVYak3HC3pk"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 299572,
+        "episode" : false,
+        "explicit" : false,
+        "external_ids" : {
+          "isrc" : "QZK6N1900722"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/7vU308OLwga3urbN8aUPp6"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/7vU308OLwga3urbN8aUPp6",
+        "id" : "7vU308OLwga3urbN8aUPp6",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "Vision - Slowed",
+        "popularity" : 56,
+        "preview_url" : "https://p.scdn.co/mp3-preview/94019d5e2d1559689bf2f40ed90a68a6c2c7b3d0?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:7vU308OLwga3urbN8aUPp6"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2022-01-05T18:25:25Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/"
+        },
+        "href" : "https://api.spotify.com/v1/users/",
+        "id" : "",
+        "type" : "user",
+        "uri" : "spotify:user:"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv"
+            },
+            "href" : "https://api.spotify.com/v1/artists/3MDqk7o9WcL4FSvlyyGjRv",
+            "id" : "3MDqk7o9WcL4FSvlyyGjRv",
+            "name" : "Phil Good",
+            "type" : "artist",
+            "uri" : "spotify:artist:3MDqk7o9WcL4FSvlyyGjRv"
+          } ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/5JcqFw1JKinpCu1IOeEnCz"
+          },
+          "href" : "https://api.spotify.com/v1/albums/5JcqFw1JKinpCu1IOeEnCz",
+          "id" : "5JcqFw1JKinpCu1IOeEnCz",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b2734f20d1211430424f454325b5",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e024f20d1211430424f454325b5",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d000048514f20d1211430424f454325b5",
+            "width" : 64
+          } ],
+          "name" : "Everything's (Not) Good",
+          "release_date" : "2020-08-07",
+          "release_date_precision" : "day",
+          "total_tracks" : 4,
+          "type" : "album",
+          "uri" : "spotify:album:5JcqFw1JKinpCu1IOeEnCz"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3MDqk7o9WcL4FSvlyyGjRv",
+          "id" : "3MDqk7o9WcL4FSvlyyGjRv",
+          "name" : "Phil Good",
+          "type" : "artist",
+          "uri" : "spotify:artist:3MDqk7o9WcL4FSvlyyGjRv"
+        } ],
+        "disc_number" : 1,
+        "duration_ms" : 227106,
+        "episode" : false,
+        "explicit" : false,
+        "external_ids" : {
+          "isrc" : "USAT22005947"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/7AlaXfx2sqPDyv5iTnVJVf"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/7AlaXfx2sqPDyv5iTnVJVf",
+        "id" : "7AlaXfx2sqPDyv5iTnVJVf",
+        "is_local" : false,
+        "is_playable" : true,
+        "name" : "Everything's Good - slowed + reverb",
+        "popularity" : 39,
+        "preview_url" : "https://p.scdn.co/mp3-preview/91ce778ddb5dde4cc22b82796e58d565efefde9c?cid=e621267d8deb4b17bc109d60b3171529",
+        "track" : true,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:7AlaXfx2sqPDyv5iTnVJVf"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    } ],
+    "limit" : 100,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 50
+  },
+  "type" : "playlist",
+  "uri" : "spotify:playlist:37i9dQZF1DX0h2LvJ7ZJ15"
+}
