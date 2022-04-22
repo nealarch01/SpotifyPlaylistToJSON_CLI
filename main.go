@@ -8,6 +8,7 @@ import (
 	"net/http"
 	url "net/url"
 	"os"
+	"regexp"
 	"strings"
 )
 
@@ -67,6 +68,52 @@ func getAccessToken(clientID string, clientSecret string) TokenConfig {
 	return tokenData
 }
 
+// Extracts the genre ID from the playlist if a link is entered
+func formatPlaylistLink(userInput string) string {
+	playlistID_RE := regexp.MustCompile(`[0-9]([a-z]|[A-Z]|[0-9])+`)
+	regexpResult := playlistID_RE.FindStringSubmatch(userInput)
+	if len(regexpResult) == 0 {
+		return ""
+	}
+	return regexpResult[0]
+}
+
+func formatFilename(playlistName string) string {
+	playlistName = strings.ReplaceAll(playlistName, "'", "")
+	playlistName = strings.ReplaceAll(playlistName, " ", "-")
+	return playlistName
+}
+
+func isValidLink(userInput string) bool {
+	linkRE := regexp.MustCompile(`playlist/([a-z]|[A-Z]|[0-9])+`)
+	return linkRE.MatchString(userInput)
+}
+
+func getPlaylistData(playlistID string, accessToken string) []byte {
+	// Similar to C printf
+	// %s denotes string of characters
+	playlistURLEndpoint := fmt.Sprintf("https://api.spotify.com/v1/playlists/%s?market=ES", playlistID)
+
+	callReq, err := http.NewRequest("GET", playlistURLEndpoint, nil)
+	if err != nil {
+		fmt.Println("There was an error creating a call request")
+		return nil
+	}
+	callReq.Header.Add("Authorization", "Bearer "+accessToken)
+	callReq.Header.Add("Content-Type", "application/json")
+	httpClient := &http.Client{}
+	response, err := httpClient.Do(callReq)
+
+	if err != nil {
+		fmt.Println("There was an error making call request")
+		return nil
+	}
+
+	defer response.Body.Close() // Close after processing body
+	responseData, err := ioutil.ReadAll(response.Body)
+	return responseData
+}
+
 func main() {
 	fmt.Println("Spotify public playlist to JSON")
 	jsonFile, err := os.Open("api-config.json")
@@ -87,8 +134,21 @@ func main() {
 		return
 	}
 	if clientSecret == "" {
-		fmt.Println("No Client Secret read. Check object name\nTerminate process")
+		fmt.Println("No Client Secret read. Check object name\nTerminating process")
 		return
+	}
+
+	var userInput string
+	fmt.Print("Enter spotify playlist id or link: ")
+	fmt.Scanln(&userInput)
+	if strings.Contains(userInput, "/") {
+		if isValidLink(userInput) {
+			// Extract the genre ID
+			userInput = formatPlaylistLink(userInput)
+		} else {
+			fmt.Println("Invalid playlist link")
+			return
+		}
 	}
 
 	var tokenData TokenConfig
@@ -96,41 +156,37 @@ func main() {
 	accessToken := tokenData.AccessToken
 
 	if accessToken == "" {
+		fmt.Println("There was an error obtaining access token")
 		return
 	}
 
-	var userInput string
-	fmt.Println("Enter spotify playlist id: ")
-	fmt.Scanln(&userInput)
+	responseData := getPlaylistData(userInput, accessToken)
 
-	// Similar to C printf
-	// %s denotes string of characters
-	playlistURLEndpoint := fmt.Sprintf("https://api.spotify.com/v1/playlists/%s?market=ES", userInput)
-
-	callReq, err := http.NewRequest("GET", playlistURLEndpoint, nil)
-	if err != nil {
-		fmt.Println("There was an error creating a call request")
+	type PlaylistName struct {
+		Name string `json:"name"`
 	}
-	callReq.Header.Add("Authorization", "Bearer "+accessToken)
-	callReq.Header.Add("Content-Type", "application/json")
-	httpClient := &http.Client{}
-	response, err := httpClient.Do(callReq)
 
-	if err != nil {
-		fmt.Println("There was an error making call request to get Playlist Data")
+	var playlistname PlaylistName
+	playlist_name_err := json.Unmarshal(responseData, &playlistname)
+	if playlist_name_err != nil {
+		fmt.Println("Error. Could not unmarshall data")
+		return
 	}
-	// fmt.Println(response)
-	defer response.Body.Close() // Close after processing body
-	responseData, err := ioutil.ReadAll(response.Body)
-	// fmt.Println(string(responseData)) // Prints
 
-	writeErr := ioutil.WriteFile("./PlaylistData.json", []byte(responseData), 0644) // 0644 permission: "readable by all the user groups, but writable by the user only"
+	if playlistname.Name == "" {
+		fmt.Println("Invalid link / playlist ID")
+		return
+	}
+
+	outputFile := fmt.Sprintf("%s.json", formatFilename(playlistname.Name))
+
+	writeErr := ioutil.WriteFile(outputFile, []byte(responseData), 0644) // 0644 permission: "readable by all the user groups, but writable by the user only"
 
 	if writeErr != nil {
 		fmt.Println("Error writing to file")
 		return
 	}
 
-	fmt.Println("Program terminated with no errors")
+	fmt.Println("Successful run!")
 	jsonFile.Close() // Close the file
 }
