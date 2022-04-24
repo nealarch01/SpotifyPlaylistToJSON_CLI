@@ -79,9 +79,13 @@ func formatPlaylistLink(userInput string) string {
 }
 
 func formatFilename(playlistName string) string {
-	playlistName = strings.ReplaceAll(playlistName, "'", "")
 	playlistName = strings.ReplaceAll(playlistName, " ", "-")
-	return playlistName
+	filenameRegex := regexp.MustCompile(`[^a-zA-Z0-9\-]`)        // Any character that is not alphanumeric should be removed (excluding dashes)
+	filename := filenameRegex.ReplaceAllString(playlistName, "") // Purpose is to remove special characters
+	if len(filename) == 0 {
+		return "some-playlist"
+	}
+	return filename
 }
 
 func isValidLink(userInput string) bool {
