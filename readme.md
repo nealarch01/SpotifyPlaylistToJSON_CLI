@@ -1,7 +1,6 @@
-# CLI Program that obtains Spotify Playlist Data and writes it into JSON
-Command line program that takes a spotify playlist ID and writes its data in JSON format in a JSON file.
+## Command line program that takes a Spotify Playlist URL/URI/ID and writes its data into a JSON file named after the playlist
 
-Note: The spotify playlist must be public
+
 ## Requirements
 - Go
 - Spotify Client ID and Secret stored in ```api-config.json```
@@ -14,6 +13,8 @@ Note: The spotify playlist must be public
 }
 ```
 
+- To run: ```go run main.go```
 
-https://user-images.githubusercontent.com/73256760/164774540-d244b675-00d6-40bc-a0f3-2a52733c412d.mov
+
+https://user-images.githubusercontent.com/73256760/165158723-ea224686-63b9-4101-b696-a6dbbcf71f5f.mov
 
