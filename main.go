@@ -68,8 +68,8 @@ func getAccessToken(clientID string, clientSecret string) TokenConfig {
 	return tokenData
 }
 
-// Extracts the genre ID from the playlist if a link is entered
-func formatPlaylistLink(userInput string) string {
+// Extracts the genre ID from the playlist if a URL or URI is entered
+func extractPlaylistID(userInput string) string {
 	playlistID_RE := regexp.MustCompile(`[0-9]([a-z]|[A-Z]|[0-9])+`)
 	regexpResult := playlistID_RE.FindStringSubmatch(userInput)
 	if len(regexpResult) == 0 {
@@ -82,15 +82,21 @@ func formatFilename(playlistName string) string {
 	playlistName = strings.ReplaceAll(playlistName, " ", "-")
 	filenameRegex := regexp.MustCompile(`[^a-zA-Z0-9\-]`)        // Any character that is not alphanumeric should be removed (excluding dashes)
 	filename := filenameRegex.ReplaceAllString(playlistName, "") // Purpose is to remove special characters
-	if len(filename) == 0 {
+	if len(filename) == 0 {                                      // If the playlist contains all special characters leaving an empty string, name it to a default filename
+		fmt.Println("There was an error formatting playlist name, your data will be written in some-playlist.json")
 		return "some-playlist"
 	}
 	return filename
 }
 
-func isValidLink(userInput string) bool {
-	linkRE := regexp.MustCompile(`playlist/([a-z]|[A-Z]|[0-9])+`)
-	return linkRE.MatchString(userInput)
+func isValidURL(userInput string) bool {
+	urlRE := regexp.MustCompile(`playlist/([a-z]|[A-Z]|[0-9])+`)
+	return urlRE.MatchString(userInput)
+}
+
+func isValidURI(userInput string) bool {
+	uriRE := regexp.MustCompile(`playlist:([a-z]|[A-Z]|[0-9])+`)
+	return uriRE.MatchString(userInput)
 }
 
 func getPlaylistData(playlistID string, accessToken string) []byte {
@@ -143,14 +149,14 @@ func main() {
 	}
 
 	var userInput string
-	fmt.Print("Enter spotify playlist id or link: ")
+	fmt.Print("Enter Spotify Playlist URL/ID/URI: ")
 	fmt.Scanln(&userInput)
-	if strings.Contains(userInput, "/") {
-		if isValidLink(userInput) {
-			// Extract the genre ID
-			userInput = formatPlaylistLink(userInput)
+	if strings.Contains(userInput, "/") || strings.Contains(userInput, ":") {
+		if isValidURL(userInput) || isValidURI(userInput) {
+			// Extract the playlist ID
+			userInput = extractPlaylistID(userInput)
 		} else {
-			fmt.Println("Invalid playlist link")
+			fmt.Println("Invalid URL / URI")
 			return
 		}
 	}
@@ -178,7 +184,7 @@ func main() {
 	}
 
 	if playlistname.Name == "" {
-		fmt.Println("Invalid link / playlist ID")
+		fmt.Println("Could not find playlist data of URL/URI/ID entered")
 		return
 	}
 
